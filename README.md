@@ -7,15 +7,16 @@
 - ⚡ Fun fact: ... 
 ________________________________________
                     My Technical Skills:
-•	Platforms: Windows 10-11, UNIX/LINUX, Android, iOS
-•	Programming: Java, Python, HTML, CSS, JavaScript, C
-•	Database: MySQL, Heidy SQL.
-•	Test Automation: Selenium Web Driver, TestNG, Git/GitHub, Jenkins,  Cucumber/Gherkin, IntelliJ.
-•	Web Services: API, Postman, Swagger, Jenkins
-•	Mobile Testing:  VSCode, Android Studio, ADB/AVD, XCode
-•	Testing Tools: Chrome Dev Tools, ChroPath
-•	Bug Tracking/Project Management: Jira, Xray, Confluence
-•	Other: MS Office, Google Drive
+                    
+  •	Platforms: Windows 10-11, UNIX/LINUX, Android, iOS
+  •	Programming: Java, Python, HTML, CSS, JavaScript, C
+  •	Database: MySQL, Heidy SQL.
+  •	Test Automation: Selenium Web Driver, TestNG, Git/GitHub, Jenkins,  Cucumber/Gherkin, IntelliJ.
+  •	Web Services: API, Postman, Swagger, Jenkins
+  •	Mobile Testing:  VSCode, Android Studio, ADB/AVD, XCode
+  •	Testing Tools: Chrome Dev Tools, ChroPath
+  •	Bug Tracking/Project Management: Jira, Xray, Confluence
+  •	Other: MS Office, Google Drive
 
 <!---
 REZAULKARIM2024/REZAULKARIM2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
