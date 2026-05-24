@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ... 
 ________________________________________
 🛠️ Technical Skills
+
 🧪 Testing:
 
 Manual Testing • Functional Testing • Regression Testing • Smoke Testing • Sanity Testing • Integration Testing • System Testing • User Acceptance Testing (UAT) • Black-Box Testing • Cross-Browser Testing • Mobile Testing Concepts
