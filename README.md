@@ -6,19 +6,31 @@
 - 😄 Pronouns: or Call me Rezaa
 - ⚡ Fun fact: ... 
 ________________________________________
-                    My Technical Skills:
-                    
-  •	Platforms: Windows 10-11, UNIX/LINUX, Android, iOS
-  •	Programming: Java, Python, HTML, CSS, JavaScript, C
-  •	Database: MySQL, Heidy SQL.
-  •	Test Automation: Selenium Web Driver, TestNG, Git/GitHub, Jenkins,  Cucumber/Gherkin, IntelliJ.
-  •	Web Services: API, Postman, Swagger, Jenkins
-  •	Mobile Testing:  VSCode, Android Studio, ADB/AVD, XCode
-  •	Testing Tools: Chrome Dev Tools, ChroPath
-  •	Bug Tracking/Project Management: Jira, Xray, Confluence
-  •	Other: MS Office, Google Drive
+🛠️ Technical Skills
+🧪 Testing:
 
-<!---
-REZAULKARIM2024/REZAULKARIM2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Manual Testing • Functional Testing • Regression Testing • Smoke Testing • Sanity Testing • Integration Testing • System Testing • User Acceptance Testing (UAT) • Black-Box Testing • Cross-Browser Testing • Mobile Testing Concepts
+
+🤖 Automation:
+
+Selenium WebDriver • Java • TestNG • Maven • Cucumber BDD • Page Object Model (POM) • Keyword-Driven Framework • Selenium Grid • Sauce Labs • Playwright
+
+🔌 API & Web Services:
+
+Postman • REST API Testing • Rest Assured • SOAP Concepts • HTTP Methods • API Authorization • Web Service Testing
+
+🗄️ Database:
+
+SQL • MySQL • PostgreSQL • Oracle • SQLite • Microsoft SQL Server • Backend Data Validation • Data Verification • Advanced SQL Queries
+
+⚙️ Tools & CI/CD:
+
+Jira • Zephyr • Jenkins • Git • GitHub • GitHub Actions • Allure Report • SharePoint • Eclipse
+
+📋 Methods & Platforms:
+
+Agile Scrum • Waterfall • BDD • SDLC • STLC • Sprint Planning • Daily Scrum • Windows • macOS • iOS • Android • AWS
+
+📱 Connect with Me
+
+Gmail • LinkedIn • GitHub • Portfolio
