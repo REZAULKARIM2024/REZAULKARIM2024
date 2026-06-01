@@ -40,11 +40,13 @@
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 ![POM](https://img.shields.io/badge/Page%20Object%20Model-blue?style=flat-square)
 ![Behave](https://img.shields.io/badge/Behave-BDD-23D96C?style=flat-square)
+![Sauce Labs](https://img.shields.io/badge/Sauce%20Labs-E2231A?style=flat-square)
 
 ### 🔌 API & Web Services
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -86,9 +88,19 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| [QA Brains Automation (Java)](https://github.com/REZAULKARIM2024) | Java • Playwright • Cucumber | BDD automation framework with POM |
-| [QA Brains Automation (Python)](https://github.com/REZAULKARIM2024) | Python • Playwright • Behave | BDD automation framework with POM |
-| [QA Brains Automation (TypeScript)](https://github.com/REZAULKARIM2024) | TypeScript • Playwright • Cucumber | BDD automation framework with POM |
+| [QaBrainsAutomation_Python](https://github.com/REZAULKARIM2024/QaBrainsAutomation_Python) | Python • Playwright • Behave | BDD framework with POM, Allure reporting, smoke/regression suites |
+| [QaBrainAutomation_TypeScript_Playwright](https://github.com/REZAULKARIM2024/QaBrainAutomation_TypeScript_Playwright) | TypeScript • Playwright • Cucumber | BDD automation framework with POM |
+| [qaBrainsAutomationPlaywright](https://github.com/REZAULKARIM2024/qaBrainsAutomationPlaywright) | Java • Playwright • Cucumber | QaBrains automation using Playwright |
+| [QaBrainsAPIAutomation](https://github.com/REZAULKARIM2024/QaBrainsAPIAutomation) | Java • RestAssured | REST API test automation framework |
+| [QaBrainsAPIAutomation_Postman](https://github.com/REZAULKARIM2024/QaBrainsAPIAutomation_Postman) | Postman | API automation using Postman collections |
+| [banking-automation](https://github.com/REZAULKARIM2024/banking-automation) | Java • Selenium • Cucumber | Banking UI automation with Jenkins CI/CD reports |
+| [mtc-auto-framework](https://github.com/REZAULKARIM2024/mtc-auto-framework) | Java • Selenium • Cucumber | Automation framework with Jenkins Cucumber reports |
+| [QaBrainAutomation_SauceLab](https://github.com/REZAULKARIM2024/QaBrainAutomation_SauceLab) | Java • Sauce Labs | Cross-browser automation using Sauce Labs |
+| [OpenEMR_Automation](https://github.com/REZAULKARIM2024/OpenEMR_Automation) | Java • Selenium | Healthcare EMR system automation |
+| [SauceDemoAutomation](https://github.com/REZAULKARIM2024/SauceDemoAutomation) | Java • Selenium | E-commerce demo site automation |
+| [QaBrainsAutomation](https://github.com/REZAULKARIM2024/QaBrainsAutomation) | Java • Selenium | Core QA Brains automation framework |
+| [PayrollManagementSystems](https://github.com/REZAULKARIM2024/PayrollManagementSystems) | Java | Payroll management system |
+| [AmazonSeleniumTest](https://github.com/REZAULKARIM2024/AmazonSeleniumTest) | Java • Selenium | Amazon e-commerce automation tests |
 
 ---
 
@@ -96,7 +108,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=REZAULKARIM2024&show_icons=true&theme=radical&cache_seconds=1800" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REZAULKARIM2024&layout=compact&theme=radical&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REZAULKARIM2024&layout=compact&theme=radical&cache_seconds=1800" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=REZAULKARIM2024&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
