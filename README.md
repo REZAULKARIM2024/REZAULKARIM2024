@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 I'm an **Automation QA Engineer** passionate about building robust test frameworks
-- 🌱 Currently working with **Java**, **Python**, **Selenium**, and **Playwright**
+- 🌱 Currently working with **Java**, **Python**, **JavaScript**, **Selenium**, **Playwright**, and **Cypress**
 - 🤖 I love automating everything — from UI tests to API validation pipelines
 - 💞️ Open to collaborate on **open-source QA projects** and **automation frameworks**
 - 😄 You can call me **Rezaa**
@@ -38,8 +38,10 @@
 ### 🤖 Automation
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-04C38E?style=flat-square&logo=cypress&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
@@ -86,21 +88,45 @@
 
 ## 🚀 Featured Projects
 
+### 🌐 Cypress + JavaScript
 | Project | Stack | Description |
-|---|---|---|
+|---------|-------|-------------|
+| [AmazonCypressJavaScriptAutomation](https://github.com/REZAULKARIM2024/AmazonCypressJavaScriptAutomation) | Cypress • JavaScript • Cucumber | Amazon e-commerce E2E automation — 39 test cases, 100% pass rate |
+| [QaBrainsCypress](https://github.com/REZAULKARIM2024/QaBrainsCypress) | Cypress • JavaScript • Cucumber | BDD automation with POM, smoke & regression tag-based execution |
+
+### 🐍 Python + Playwright
+| Project | Stack | Description |
+|---------|-------|-------------|
 | [QaBrainsAutomation_Python](https://github.com/REZAULKARIM2024/QaBrainsAutomation_Python) | Python • Playwright • Behave | BDD framework with POM, Allure reporting, smoke/regression suites |
+
+### 🔷 TypeScript + Playwright
+| Project | Stack | Description |
+|---------|-------|-------------|
 | [QaBrainAutomation_TypeScript_Playwright](https://github.com/REZAULKARIM2024/QaBrainAutomation_TypeScript_Playwright) | TypeScript • Playwright • Cucumber | BDD automation framework with POM |
-| [qaBrainsAutomationPlaywright](https://github.com/REZAULKARIM2024/qaBrainsAutomationPlaywright) | Java • Playwright • Cucumber | QaBrains automation using Playwright |
-| [QaBrainsAPIAutomation](https://github.com/REZAULKARIM2024/QaBrainsAPIAutomation) | Java • RestAssured | REST API test automation framework |
-| [QaBrainsAPIAutomation_Postman](https://github.com/REZAULKARIM2024/QaBrainsAPIAutomation_Postman) | Postman | API automation using Postman collections |
+
+### ☕ Java + Playwright / Selenium
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [qaBrainsAutomationPlaywright](https://github.com/REZAULKARIM2024/qaBrainsAutomationPlaywright) | Java • Playwright • Cucumber | QaBrains automation using Playwright with BDD |
 | [banking-automation](https://github.com/REZAULKARIM2024/banking-automation) | Java • Selenium • Cucumber | Banking UI automation with Jenkins CI/CD reports |
 | [mtc-auto-framework](https://github.com/REZAULKARIM2024/mtc-auto-framework) | Java • Selenium • Cucumber | Automation framework with Jenkins Cucumber reports |
 | [QaBrainAutomation_SauceLab](https://github.com/REZAULKARIM2024/QaBrainAutomation_SauceLab) | Java • Sauce Labs | Cross-browser automation using Sauce Labs |
 | [OpenEMR_Automation](https://github.com/REZAULKARIM2024/OpenEMR_Automation) | Java • Selenium | Healthcare EMR system automation |
+| [AmazonSeleniumTest](https://github.com/REZAULKARIM2024/AmazonSeleniumTest) | Java • Selenium | Amazon e-commerce automation tests |
 | [SauceDemoAutomation](https://github.com/REZAULKARIM2024/SauceDemoAutomation) | Java • Selenium | E-commerce demo site automation |
 | [QaBrainsAutomation](https://github.com/REZAULKARIM2024/QaBrainsAutomation) | Java • Selenium | Core QA Brains automation framework |
+
+### 🔌 API Automation
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [QaBrainsAPIAutomation](https://github.com/REZAULKARIM2024/QaBrainsAPIAutomation) | Java • RestAssured | REST API test automation framework |
+| [QaBrainsAPIAutomation_Postman](https://github.com/REZAULKARIM2024/QaBrainsAPIAutomation_Postman) | Postman | API automation using Postman collections |
+
+### 🗄️ Java + Database
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [Payroll-Management-Systems_Automation](https://github.com/REZAULKARIM2024/Payroll-Management-Systems_Automation_Java_MySql_Selenium-) | Java • MySQL • Selenium | Full payroll management system with DB-driven automation |
 | [PayrollManagementSystems](https://github.com/REZAULKARIM2024/PayrollManagementSystems) | Java | Payroll management system |
-| [AmazonSeleniumTest](https://github.com/REZAULKARIM2024/AmazonSeleniumTest) | Java • Selenium | Amazon e-commerce automation tests |
 
 ---
 
