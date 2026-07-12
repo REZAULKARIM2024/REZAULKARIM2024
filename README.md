@@ -1,11 +1,19 @@
+<div align="center">
+
 # Hi there, I'm Rezaul Karim 👋
 
 **QA Automation Engineer / SDET** | Brooklyn, NY 🗽
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2088FF&center=true&vCenter=true&width=560&lines=Building+Java+test+automation+frameworks;Selenium+%7C+Cucumber+%7C+TestNG+%7C+REST+Assured;3%2B+years+testing+financial+%26+enterprise+apps)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rknyc2021@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/REZAULKARIM2024)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rezaul-karim-803a3b273)
 [![Phone](https://img.shields.io/badge/Phone-+1%20347%20221%203047-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+13472213047)
+
+![Profile Views](https://komarev.com/ghpvc/?username=REZAULKARIM2024&color=2088FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
@@ -62,29 +70,47 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+### 📱 Mobile Automation
+![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
+![UiAutomator2](https://img.shields.io/badge/UiAutomator2-3DDC84?style=flat-square&logo=android&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
 
-### ☕ Java Automation (Core Expertise)
+### ☕ Enterprise BDD Frameworks (Java · Selenium · Cucumber · TestNG)
+
 | Project | Stack | Description |
 |---|---|---|
-| [banking-automation](https://github.com/REZAULKARIM2024/banking-automation) | Java • Selenium • Cucumber • Jenkins | Banking application UI automation with Jenkins CI/CD reporting |
-| [Payroll-Management-Systems_Automation](https://github.com/REZAULKARIM2024/Payroll-Management-Systems_Automation_Java_MySql_Selenium-) | Java • MySQL • Selenium | End-to-end payroll system automation with DB-driven validation |
-| [QaBrainsAPIAutomation](https://github.com/REZAULKARIM2024/QaBrainsAPIAutomation) | Java • Rest Assured | REST API test automation framework |
-| [OpenEMR_Automation](https://github.com/REZAULKARIM2024/OpenEMR_Automation) | Java • Selenium | Healthcare EMR system UI automation |
-| [AmazonSeleniumTest](https://github.com/REZAULKARIM2024/AmazonSeleniumTest) | Java • Selenium | E-commerce end-to-end automation |
-| [mtc-auto-framework](https://github.com/REZAULKARIM2024/mtc-auto-framework) | Java • Selenium • Cucumber | Automation framework with Jenkins Cucumber reports |
+| [ParaBank-BDD-Test-Automation-Framework](https://github.com/REZAULKARIM2024/ParaBank-BDD-Test-Automation-Framework) | Java • Selenium • Cucumber • TestNG • RestAssured • Allure | Multi-layer framework against a live public banking app — UI/BDD, REST API, accessibility & performance in one project; 69 UI scenarios, 100% pass |
+| [NorthFace-Automationexercise_Automation-Framework](https://github.com/REZAULKARIM2024/NorthFace-Automationexercise_Automation-Framework) | Java • Selenium • Cucumber • TestNG • RestAssured • JUnit | Multi-layer framework spanning UI, E2E, API, unit, accessibility, and performance testing across two real-world sites |
+
+### 📱 Mobile Automation (Appium)
+
+| Project | Stack | Description |
+|---|---|---|
+| [AndroidAppiumTest-Framework](https://github.com/REZAULKARIM2024/AndroidAppiumTest-Framework) | Java 17 • Appium 3 • UiAutomator2 • TestNG | Android UI automation with two full suites — 75 tests across 12 categories on the MyDemo App |
+| [AppiumMobileAutomation_Framework-ApiDemos](https://github.com/REZAULKARIM2024/AppiumMobileAutomation_Framework-ApiDemos) | Java • Appium • TestNG • POM | Mobile automation framework targeting Google's ApiDemos sample Android app |
+
+### 🖥️ Application + Test Automation
+
+| Project | Stack | Description |
+|---|---|---|
+| [Payroll-Management-Systems_Automation](https://github.com/REZAULKARIM2024/Payroll-Management-Systems_Automation_Java_MySql_Selenium-) | Java Swing • MySQL • Selenium • Maven | Desktop payroll management app — employee records, salary calculation, payslip generation, tested end-to-end |
 
 ### 🔌 API Automation
+
 | Project | Stack | Description |
 |---|---|---|
+| [QaBrainsAPIAutomation](https://github.com/REZAULKARIM2024/QaBrainsAPIAutomation) | Java • Rest Assured | REST API test automation framework |
 | [QaBrainsAPIAutomation_Postman](https://github.com/REZAULKARIM2024/QaBrainsAPIAutomation_Postman) | Postman | API automation using Postman collections |
 
-### 🌐 Other Frameworks (Playwright / Cypress / Python)
+### 🌐 Cross-Framework (Cypress / Playwright / Python / TypeScript)
+
 | Project | Stack | Description |
 |---|---|---|
-| [AmazonCypressJavaScriptAutomation](https://github.com/REZAULKARIM2024/AmazonCypressJavaScriptAutomation) | Cypress • JavaScript • Cucumber | E-commerce E2E automation — 39 test cases, 100% pass rate |
+| [Amazon-Cypress-JavaScript-Automation](https://github.com/REZAULKARIM2024/Amazon-Cypress-JavaScript-Automation) | Cypress 14 • JavaScript • Cucumber | Production-grade BDD E2E suite for Amazon.com — auth, shopping workflows |
+| [QaBrainsAutomation-Cypress-JavaScript](https://github.com/REZAULKARIM2024/QaBrainsAutomation-Cypress-JavaScript) | Cypress • JavaScript • Cucumber | E2E suite covering login, registration, cart, logout, forgot-password, smoke & regression |
 | [QaBrainsAutomation_Python](https://github.com/REZAULKARIM2024/QaBrainsAutomation_Python) | Python • Playwright • Behave | BDD framework with POM and Allure reporting |
 | [QaBrainAutomation_TypeScript_Playwright](https://github.com/REZAULKARIM2024/QaBrainAutomation_TypeScript_Playwright) | TypeScript • Playwright • Cucumber | BDD automation framework with POM |
 
@@ -92,9 +118,19 @@
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=REZAULKARIM2024&show_icons=true&theme=radical&cache_seconds=1800)
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=REZAULKARIM2024&show_icons=true&theme=radical&cache_seconds=1800&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=REZAULKARIM2024&layout=compact&theme=radical&cache_seconds=1800)
+
+![](https://streak-stats.demolab.com/?user=REZAULKARIM2024&theme=radical&cache_seconds=1800)
+
+</div>
 
 ---
 
+<div align="center">
+
 *"Quality is never an accident; it is always the result of intelligent effort."*
+
+</div>
