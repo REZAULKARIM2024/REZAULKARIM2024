@@ -17,66 +17,58 @@
 
 ---
 
-## 👨‍💻 About Me
+## 📝 Professional Summary
 
-- 🔭 QA Automation Engineer with **3+ years** of experience building Java-based test automation frameworks for financial and enterprise applications
-- 🤖 Core stack: **Java, Selenium WebDriver, TestNG, Cucumber BDD, Maven, REST Assured**
-- 🏦 Currently working on automation for a **financial services platform** at Transfotech Global Corp
-- 🌱 Also comfortable with Playwright, Cypress, and Python for cross-framework projects
+QA Automation Engineer / SDET with **3+ years** of experience designing and building Java-based test automation frameworks for financial and enterprise applications. Currently automating a **financial services platform** at Transfotech Global Corp. Core strength is layered framework design — UI (Selenium + Page Object Model), BDD (Cucumber/Gherkin), API (RestAssured), mobile (Appium), accessibility (axe-core), and performance testing — wired into TestNG/Maven with Allure, Cucumber HTML, and Jenkins-driven reporting. Comfortable extending beyond the core Java stack into Playwright, Cypress, and Python when a project calls for it.
+
+## 🎯 Current Focus Areas
+
+- 🏦 Automating a financial services platform (Java · Selenium · Cucumber · TestNG) at Transfotech Global Corp
+- 📱 Building out Android mobile test automation with Appium 3 + UiAutomator2
+- 📊 Deepening test observability — unifying Cucumber, TestNG, and Allure reporting into a single dashboard per project
+- 🌐 Keeping cross-framework skills current across Playwright, Cypress, and Python/Behave
 - 💞️ Open to collaborating on open-source QA automation projects
-- 📫 Reach me at **rknyc2021@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Technical Skills Matrix
 
-### 🤖 Automation (Primary)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-![POM](https://img.shields.io/badge/Page%20Object%20Model-blue?style=flat-square)
-![Sauce Labs](https://img.shields.io/badge/Sauce%20Labs-E2231A?style=flat-square)
+| Competency Area | Tools & Technologies | Applied In |
+|---|---|---|
+| UI Test Automation | Selenium WebDriver, Page Object Model | ParaBank, NorthFace/Automationexercise, Amazon Selenium Test |
+| BDD / Behavior-Driven Testing | Cucumber, Gherkin, Behave | ParaBank, NorthFace/Automationexercise, QaBrains Python |
+| Mobile Automation | Appium 3, UiAutomator2, Java 17 | AndroidAppiumTest-Framework, AppiumMobileAutomation-ApiDemos |
+| API Testing | RestAssured, Postman, JSON Schema Validation | QaBrainsAPIAutomation (+ Postman), ParaBank API suite |
+| Cross-Browser / Cross-Framework | Playwright, Cypress, TypeScript, Python | QaBrains Cypress / Playwright / Python / TypeScript repos |
+| Accessibility Testing | axe-core | ParaBank accessibility suite |
+| Performance Testing | Apache JMeter, custom TestNG smoke checks | ParaBank performance suite |
+| Reporting & Observability | Allure, Cucumber HTML reports, TestNG reports, Jenkins Cucumber Reports | ParaBank, banking-automation, mtc-auto-framework |
+| CI/CD | Jenkins, GitHub Actions | banking-automation, mtc-auto-framework |
+| Cloud Test Grids | Sauce Labs | QaBrainAutomation_SauceLab |
+| Databases | MySQL, SQL, PostgreSQL, Oracle | Payroll Management System |
+| Build & Dependency Management | Maven | All Java frameworks |
+| Testing Practices | Manual, Functional, Regression, Smoke, Cross-Browser, Negative/Boundary | Across all frameworks |
 
-### 🧪 Testing Practices
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-grey?style=flat-square)
-![Functional Testing](https://img.shields.io/badge/Functional%20Testing-grey?style=flat-square)
-![Regression Testing](https://img.shields.io/badge/Regression%20Testing-grey?style=flat-square)
-![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-grey?style=flat-square)
-![Cross-Browser Testing](https://img.shields.io/badge/Cross--Browser%20Testing-grey?style=flat-square)
+<details>
+<summary>🔖 Badge view</summary>
 
-### 🔌 API & Web Services
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
-![Rest Assured](https://img.shields.io/badge/Rest%20Assured-43B02A?style=flat-square)
+**Automation:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square) ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) ![POM](https://img.shields.io/badge/Page%20Object%20Model-blue?style=flat-square)
 
-### 🗄️ Database
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+**Mobile:** ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white) ![UiAutomator2](https://img.shields.io/badge/UiAutomator2-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### ⚙️ Tools & CI/CD
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure%20Report-orange?style=flat-square)
+**API & Web Services:** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square) ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-43B02A?style=flat-square)
 
-### 🌐 Also Experienced With
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-04C38E?style=flat-square&logo=cypress&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**Database:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### 📱 Mobile Automation
-![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
-![UiAutomator2](https://img.shields.io/badge/UiAutomator2-3DDC84?style=flat-square&logo=android&logoColor=white)
+**Tools & CI/CD:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Allure](https://img.shields.io/badge/Allure%20Report-orange?style=flat-square) ![Sauce Labs](https://img.shields.io/badge/Sauce%20Labs-E2231A?style=flat-square)
+
+**Also Experienced With:** ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-04C38E?style=flat-square&logo=cypress&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</details>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Automation Projects
 
 ### ☕ Enterprise BDD Frameworks (Java · Selenium · Cucumber · TestNG)
 
@@ -116,6 +108,23 @@
 
 ---
 
+## 🖥️ Platform & Environment Expertise
+
+| Category | Details |
+|---|---|
+| **Browsers** | Chrome, Firefox, Edge — cross-browser & compatibility testing |
+| **Mobile** | Android (physical device & emulator) via Appium 3 + UiAutomator2 |
+| **Operating Systems** | Windows |
+| **Cloud Test Grids** | Sauce Labs |
+| **CI/CD** | Jenkins (Cucumber report generation), GitHub Actions |
+| **Databases** | MySQL, SQL, PostgreSQL, Oracle |
+| **IDE** | Eclipse |
+| **Build Tools** | Maven |
+| **Issue Tracking** | Jira |
+| **Version Control** | Git, GitHub |
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -124,6 +133,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=REZAULKARIM2024&layout=compact&theme=radical&cache_seconds=1800)
 
 ![](https://streak-stats.demolab.com/?user=REZAULKARIM2024&theme=radical&cache_seconds=1800)
+
+![](https://github-profile-trophy.vercel.app/?username=REZAULKARIM2024&theme=radical&no-frame=true&row=1&column=6)
 
 </div>
 
