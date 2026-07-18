@@ -124,6 +124,12 @@ QA Automation Engineer / SDET with **3+ years** of experience designing and buil
 | **Version Control** | Git, GitHub |
 
 ---
+## ⚡ Modern QA, AI, & DevSecOps Implementation
+
+This framework is built using modern engineering methodologies, leveraging my technical training from **Google & DeepLearning.AI**:
+
+*   **AI-Assisted Engineering:** Utilized Generative AI and advanced Prompt Engineering (GitHub Copilot, Claude) to accelerate test case scaffolding, streamline Page Object Model (POM) development, and optimize custom Java/JavaScript automation methods.
+*   **Security-Aware Testing (DevSecOps):** Integrated core security validation principles within the test workflows. The framework goes beyond functional testing to validate REST API JWT token authorization, verify input sanitization to guard against SQL Injection vulnerabilities, and ensure secure data handling during backend assertions.
 
 ## 📈 GitHub Stats
 
