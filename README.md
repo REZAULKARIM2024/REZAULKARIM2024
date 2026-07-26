@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2088FF,100:0D1117&height=220&section=header&text=Rezaul%20Karim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Automation%20Engineer%20%2F%20SDET%20%7C%20Brooklyn%2C%20NY%20%F0%9F%97%BD&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:2088FF,100:8E2DE2&height=220&section=header&text=Rezaul%20Karim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Automation%20Engineer%20%2F%20SDET%20%7C%20Brooklyn%2C%20NY%20%F0%9F%97%BD&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2088FF&center=true&vCenter=true&width=560&lines=Building+Java+test+automation+frameworks;Selenium+%7C+Cucumber+%7C+TestNG+%7C+REST+Assured;3%2B+years+testing+financial+%26+enterprise+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F76B8A&center=true&vCenter=true&width=560&lines=Building+Java+test+automation+frameworks;Selenium+%7C+Cucumber+%7C+TestNG+%7C+REST+Assured;3%2B+years+testing+financial+%26+enterprise+apps)](https://git.io/typing-svg)
 
 <p>
 <a href="mailto:rknyc2021@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/REZAULKARIM2024"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/rezaul-karim-803a3b273"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="tel:+13472213047"><img src="https://img.shields.io/badge/Phone-+1%20347%20221%203047-green?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="tel:+13472213047"><img src="https://img.shields.io/badge/Phone-+1%20347%20221%203047-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=REZAULKARIM2024&color=2088FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=REZAULKARIM2024&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📝 About Me
 
@@ -29,17 +29,26 @@
 - 🌐 Keeping cross-framework skills current across Playwright, Cypress, and Python/Behave
 - 💞️ Open to collaborating on open-source QA automation projects
 
----
+### 💬 Ask Me About
+
+<p align="center">
+<img src="https://img.shields.io/badge/Test%20Automation%20Strategy-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Selenium%20%2B%20POM-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BDD%20with%20Cucumber-23D96C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Testing-8E2DE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI%2FCD%20with%20Jenkins-D24939?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI--Assisted%20QA-F7B500?style=for-the-badge"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,selenium,postman,mysql,postgres,git,github,githubactions,jenkins,linux,py,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,selenium,postman,mysql,postgres,git,github,githubactions,jenkins,linux,py,js,ts" />
 </p>
 
-<p align="center">
-<b>QA-specific frameworks &amp; tools</b> <i>(not in the icon set above)</i>
-</p>
+<p align="center"><b>QA-specific frameworks &amp; tools</b> <i>(not in the icon set above)</i></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
@@ -75,7 +84,7 @@
 | Build & Dependency Management | Maven | All Java frameworks |
 | Testing Practices | Manual, Functional, Regression, Smoke, Cross-Browser, Negative/Boundary, Security-Header | Across all frameworks |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🚀 Featured Automation Projects
 
@@ -117,7 +126,7 @@
 | [QaBrainsAutomation_Python](https://github.com/REZAULKARIM2024/QaBrainsAutomation_Python) | Python • Playwright • Behave | BDD framework with POM and Allure reporting |
 | [QaBrainAutomation_TypeScript_Playwright](https://github.com/REZAULKARIM2024/QaBrainAutomation_TypeScript_Playwright) | TypeScript • Playwright • Cucumber | BDD automation framework with POM |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🖥️ Platform & Environment Expertise
 
@@ -134,8 +143,6 @@
 | **Issue Tracking** | Jira |
 | **Version Control** | Git, GitHub |
 
----
-
 ## ⚡ Modern QA, AI, & DevSecOps Implementation
 
 This framework is built using modern engineering methodologies, leveraging my technical training from **Google & DeepLearning.AI**:
@@ -143,11 +150,13 @@ This framework is built using modern engineering methodologies, leveraging my te
 *   **AI-Assisted Engineering:** Utilized Generative AI and advanced Prompt Engineering (GitHub Copilot, Claude) to accelerate test case scaffolding, streamline Page Object Model (POM) development, and optimize custom Java/JavaScript automation methods.
 *   **Security-Aware Testing (DevSecOps):** Integrated core security validation principles within the test workflows. The framework goes beyond functional testing to validate REST API JWT token authorization, verify input sanitization to guard against SQL Injection vulnerabilities, and ensure secure data handling during backend assertions.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📈 GitHub Stats
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REZAULKARIM2024&theme=radical" width="100%"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=REZAULKARIM2024&show_icons=true&theme=radical&cache_seconds=1800&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REZAULKARIM2024&layout=compact&theme=radical&cache_seconds=1800" height="165"/>
@@ -166,12 +175,12 @@ This framework is built using modern engineering methodologies, leveraging my te
 
 </div>
 
-> The snake animation above needs a one-time GitHub Actions setup (see below) — it will render blank until that workflow runs once.
+> The snake animation needs a one-time GitHub Actions setup — it renders blank until that workflow runs once.
 
 <details>
 <summary>⚙️ One-time setup for the snake animation</summary>
 
-Create a file at `.github/workflows/snake.yml` in this repo with:
+Create `.github/workflows/snake.yml` in this repo:
 
 ```yaml
 name: Generate Snake
@@ -202,11 +211,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Commit it, then run it once manually from the **Actions** tab (Run workflow) — after that it auto-refreshes daily and the image above will populate.
+Commit it, then run it once manually from the **Actions** tab (Run workflow) — after that it auto-refreshes daily.
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
