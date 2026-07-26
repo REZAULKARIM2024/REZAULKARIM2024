@@ -44,6 +44,20 @@
 
 ## 🧰 Tech Stack
 
+### 🎯 Core Expertise
+
+<p align="center">
+<img src="https://img.shields.io/badge/Test%20Automation%20Framework%20Design-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BDD%20%2F%20Gherkin-23D96C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Test%20Automation-8E2DE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mobile%20Test%20Automation-662D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI%2FCD%20Pipeline%20Integration-D24939?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Defect%20Lifecycle%20Management-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Regression%20%26%20Smoke%20Testing-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI--Assisted%20QA-F7B500?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DevSecOps-CC0000?style=for-the-badge"/>
+</p>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,selenium,postman,mysql,postgres,git,github,githubactions,jenkins,linux,py,js,ts" />
 </p>
@@ -65,7 +79,90 @@
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
 </p>
 
-### 🗺️ Skills → Where I've Applied Them
+### 💻 Programming Languages
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🧪 UI Automation & Testing Frameworks
+
+<p align="center">
+<img src="https://img.shields.io/badge/Selenium%20WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Page%20Object%20Model-4B8BBE?style=for-the-badge"/>
+</p>
+
+### 🔌 API Testing & REST Automation
+
+<p align="center">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rest%20Assured-43B02A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSON%20Schema%20Validation-000000?style=for-the-badge&logo=json&logoColor=white"/>
+</p>
+
+### 🛠️ Build Tools & CI/CD
+
+<p align="center">
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Reporting Platforms
+
+<p align="center">
+<img src="https://img.shields.io/badge/Sauce%20Labs-E2231A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Allure%20Report-FF6C37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cucumber%20HTML%20Reports-23D96C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ExtentReports-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TestNG%20Reports-FF6C37?style=for-the-badge"/>
+</p>
+
+### 🔧 Version Control & Tools
+
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+</p>
+
+### 🗄️ Database Technologies
+
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### 🖥️ Operating Systems & Environments
+
+<p align="center">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
+### ♿ Accessibility, Security & Performance Testing
+
+<p align="center">
+<img src="https://img.shields.io/badge/Accessibility%20(axe--core)-6B4FBB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security%20Testing-CC0000?style=for-the-badge"/>
+</p>
+
+### 🧩 Technical Skills Matrix
 
 | Competency Area | Tools & Technologies | Applied In |
 |---|---|---|
