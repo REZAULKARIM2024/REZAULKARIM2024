@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:2088FF,100:8E2DE2&height=220&section=header&text=Rezaul%20Karim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Automation%20Engineer%20%2F%20SDET%20%7C%20Brooklyn%2C%20NY%20%F0%9F%97%BD&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F76B8A&center=true&vCenter=true&width=560&lines=Building+Java+test+automation+frameworks;Selenium+%7C+Cucumber+%7C+TestNG+%7C+REST+Assured;3%2B+years+testing+financial+%26+enterprise+apps)](https://git.io/typing-svg)
@@ -12,7 +11,6 @@
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=REZAULKARIM2024&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -27,6 +25,7 @@
 - 📱 Building out Android mobile test automation with Appium 3 + UiAutomator2
 - 📊 Deepening test observability — unifying Cucumber, TestNG, and Allure reporting into a single dashboard per project
 - 🌐 Keeping cross-framework skills current across Playwright, Cypress, and Python/Behave
+- 🏗️ Designed, built, and automated a full-stack banking platform (Java Swing + REST API + React) end-to-end as a portfolio project, pairing system design with a three-layer test strategy
 - 💞️ Open to collaborating on open-source QA automation projects
 
 ### 💬 Ask Me About
@@ -100,6 +99,7 @@
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Page%20Object%20Model-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AssertJ--Swing-2E7D32?style=for-the-badge"/>
 </p>
 
 ### 🔌 API Testing & REST Automation
@@ -117,6 +117,7 @@
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud & Reporting Platforms
@@ -166,19 +167,21 @@
 
 | Competency Area | Tools & Technologies | Applied In |
 |---|---|---|
-| UI Test Automation | Selenium WebDriver, Page Object Model | ParaBank, OrangeHRM, NorthFace/Automationexercise, Amazon Selenium Test |
-| BDD / Behavior-Driven Testing | Cucumber, Gherkin, Behave | ParaBank, OrangeHRM, NorthFace/Automationexercise, QaBrains Python |
+| UI Test Automation | Selenium WebDriver, Page Object Model | ParaBank, OrangeHRM, NorthFace/Automationexercise, Amazon Selenium Test, Branch-Teller-POS |
+| BDD / Behavior-Driven Testing | Cucumber, Gherkin, Behave | ParaBank, OrangeHRM, NorthFace/Automationexercise, QaBrains Python, Branch-Teller-POS |
 | Mobile Automation | Appium 3, UiAutomator2, Java 17 | AndroidAppiumTest-Framework, AppiumMobileAutomation-ApiDemos |
-| API Testing | RestAssured, Postman, JSON Schema Validation | OrangeHRM, QaBrainsAPIAutomation (+ Postman), ParaBank API suite, NY Coffee Co. POS REST API |
+| Desktop UI Automation | AssertJ-Swing | Branch-Teller-POS |
+| API Testing | RestAssured, Postman, JSON Schema Validation | OrangeHRM, QaBrainsAPIAutomation (+ Postman), ParaBank API suite, NY Coffee Co. POS REST API, Branch-Teller-POS REST API |
 | Cross-Browser / Cross-Framework | Playwright, Cypress, TypeScript, Python | QaBrains Cypress / Playwright / Python / TypeScript repos |
 | Accessibility Testing | axe-core | ParaBank accessibility suite, OrangeHRM accessibility suite |
 | Performance Testing | Apache JMeter, custom TestNG smoke checks | ParaBank performance suite, OrangeHRM performance checks |
-| Reporting & Observability | Allure, Cucumber HTML reports, TestNG reports, Jenkins Cucumber Reports | ParaBank, OrangeHRM, banking-automation, mtc-auto-framework |
-| CI/CD | Jenkins, GitHub Actions | banking-automation, mtc-auto-framework |
+| Reporting & Observability | Allure, Cucumber HTML reports, TestNG reports, Jenkins Cucumber Reports | ParaBank, OrangeHRM, banking-automation, mtc-auto-framework, Branch-Teller-POS (Allure on GitHub Pages) |
+| CI/CD | Jenkins, GitHub Actions | banking-automation, mtc-auto-framework, Branch-Teller-POS |
 | Cloud Test Grids | Sauce Labs | QaBrainAutomation_SauceLab |
-| Databases | MySQL, SQL, PostgreSQL, Oracle | Payroll Management System, NY Coffee Co. POS |
-| Unit Testing | JUnit 5 | NY Coffee Co. POS service-layer suite |
+| Databases | MySQL, SQL, PostgreSQL, Oracle | Payroll Management System, NY Coffee Co. POS, Branch-Teller-POS |
+| Unit Testing | JUnit 5 | NY Coffee Co. POS service-layer suite, Branch-Teller-POS (130 tests) |
 | Build & Dependency Management | Maven | All Java frameworks |
+| Containerization | Docker, Docker Compose | Branch-Teller-POS |
 | Testing Practices | Manual, Functional, Regression, Smoke, Cross-Browser, Negative/Boundary, Security-Header | Across all frameworks |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -206,6 +209,7 @@
 |---|---|---|
 | [Payroll-Management-Systems_Automation](https://github.com/REZAULKARIM2024/Payroll-Management-Systems_Automation_Java_MySql_Selenium-) | Java Swing • MySQL • Selenium • Maven | Desktop payroll management app — employee records, salary calculation, payslip generation, tested end-to-end |
 | [NY-Coffee-Co.-Point-of-Sale-System](https://github.com/REZAULKARIM2024/NY-Coffee-Co.-Point-of-Sale-System) | Java Swing • MySQL • JUnit 5 • REST API • Postman | Coffee-shop POS app (checkout, payroll, inventory, delivery) with a 30-test JUnit suite and a dependency-free REST API layer backed by a full Postman collection |
+| [branch-teller-pos](https://github.com/REZAULKARIM2024/branch-teller-pos) | Java Swing • MySQL • REST API • React/TypeScript • JUnit 5 • Cucumber • RestAssured • Selenium • AssertJ-Swing • Docker • GitHub Actions | Full-stack core banking simulation — same service layer exposed via Swing desktop, REST API, and a React web console — with a 156-test suite across three automation layers (JUnit5/Cucumber/RestAssured in CI, plus opt-in Selenium and AssertJ-Swing UI automation) and Allure reports auto-published to GitHub Pages |
 
 ### 🔌 API Automation
 
@@ -252,24 +256,17 @@ This framework is built using modern engineering methodologies, leveraging my te
 ## 📈 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REZAULKARIM2024&theme=radical" width="100%"/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=REZAULKARIM2024&show_icons=true&theme=radical&cache_seconds=1800&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REZAULKARIM2024&layout=compact&theme=radical&cache_seconds=1800" height="165"/>
-
 <img src="https://streak-stats.demolab.com/?user=REZAULKARIM2024&theme=radical&cache_seconds=1800" />
-
 <img src="https://github-profile-trophy.vercel.app/?username=REZAULKARIM2024&theme=radical&no-frame=true&row=1&column=6" />
-
 </div>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/REZAULKARIM2024/REZAULKARIM2024/output/github-contribution-grid-snake-dark.svg" />
-
 </div>
 
 > The snake animation needs a one-time GitHub Actions setup — it renders blank until that workflow runs once.
@@ -281,14 +278,12 @@ Create `.github/workflows/snake.yml` in this repo:
 
 ```yaml
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches: [ main ]
-
 jobs:
   generate:
     runs-on: ubuntu-latest
