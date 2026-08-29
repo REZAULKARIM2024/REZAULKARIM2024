@@ -5,6 +5,7 @@
 
 <p>
 <a href="mailto:rknyc2021@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://rezaulkarim2024.github.io"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://github.com/REZAULKARIM2024"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/rezaul-karim-803a3b273"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="tel:+13472213047"><img src="https://img.shields.io/badge/Phone-+1%20347%20221%203047-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
