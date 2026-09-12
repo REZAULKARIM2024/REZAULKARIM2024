@@ -172,14 +172,14 @@
 | BDD / Behavior-Driven Testing | Cucumber, Gherkin, Behave | ParaBank, OrangeHRM, NorthFace/Automationexercise, QaBrains Python, Branch-Teller-POS |
 | Mobile Automation | Appium 3, UiAutomator2, Java 17 | AndroidAppiumTest-Framework, AppiumMobileAutomation-ApiDemos |
 | Desktop UI Automation | AssertJ-Swing | Branch-Teller-POS |
-| API Testing | RestAssured, Postman, JSON Schema Validation | OrangeHRM, QaBrainsAPIAutomation (+ Postman), ParaBank API suite, NY Coffee Co. POS REST API, Branch-Teller-POS REST API |
-| Cross-Browser / Cross-Framework | Playwright, Cypress, TypeScript, Python | QaBrains Cypress / Playwright / Python / TypeScript repos |
+| API Testing | RestAssured, Postman, JSON Schema Validation, Playwright API testing | OrangeHRM, QaBrainsAPIAutomation (+ Postman), ParaBank API suite, NY Coffee Co. POS REST API, Branch-Teller-POS REST API, MeridianHealth-test-automation |
+| Cross-Browser / Cross-Framework | Playwright, Cypress, TypeScript, Python | QaBrains Cypress / Playwright / Python / TypeScript repos, MeridianHealth-test-automation |
 | Accessibility Testing | axe-core | ParaBank accessibility suite, OrangeHRM accessibility suite |
 | Performance Testing | Apache JMeter, custom TestNG smoke checks | ParaBank performance suite, OrangeHRM performance checks |
-| Reporting & Observability | Allure, Cucumber HTML reports, TestNG reports, Jenkins Cucumber Reports | ParaBank, OrangeHRM, banking-automation, mtc-auto-framework, Branch-Teller-POS (Allure on GitHub Pages) |
-| CI/CD | Jenkins, GitHub Actions | banking-automation, mtc-auto-framework, Branch-Teller-POS |
+| Reporting & Observability | Allure, Cucumber HTML reports, TestNG reports, Jenkins Cucumber Reports | ParaBank, OrangeHRM, banking-automation, mtc-auto-framework, Branch-Teller-POS (Allure on GitHub Pages), MeridianHealth-test-automation (Allure) |
+| CI/CD | Jenkins, GitHub Actions | banking-automation, mtc-auto-framework, Branch-Teller-POS, MeridianHealth-test-automation |
 | Cloud Test Grids | Sauce Labs | QaBrainAutomation_SauceLab |
-| Databases | MySQL, SQL, PostgreSQL, Oracle | Payroll Management System, NY Coffee Co. POS, Branch-Teller-POS |
+| Databases | MySQL, SQL, PostgreSQL, Oracle | Payroll Management System, NY Coffee Co. POS, Branch-Teller-POS, MeridianHealth-test-automation |
 | Unit Testing | JUnit 5 | NY Coffee Co. POS service-layer suite, Branch-Teller-POS (130 tests) |
 | Build & Dependency Management | Maven | All Java frameworks |
 | Containerization | Docker, Docker Compose | Branch-Teller-POS |
@@ -211,6 +211,7 @@
 | [Payroll-Management-Systems_Automation](https://github.com/REZAULKARIM2024/Payroll-Management-Systems_Automation_Java_MySql_Selenium-) | Java Swing • MySQL • Selenium • Maven | Desktop payroll management app — employee records, salary calculation, payslip generation, tested end-to-end |
 | [NY-Coffee-Co.-Point-of-Sale-System](https://github.com/REZAULKARIM2024/NY-Coffee-Co.-Point-of-Sale-System) | Java Swing • MySQL • JUnit 5 • REST API • Postman | Coffee-shop POS app (checkout, payroll, inventory, delivery) with a 30-test JUnit suite and a dependency-free REST API layer backed by a full Postman collection |
 | [branch-teller-pos](https://github.com/REZAULKARIM2024/branch-teller-pos) | Java Swing • MySQL • REST API • React/TypeScript • JUnit 5 • Cucumber • RestAssured • Selenium • AssertJ-Swing • Docker • GitHub Actions | Full-stack core banking simulation — same service layer exposed via Swing desktop, REST API, and a React web console — with a 156-test suite across three automation layers (JUnit5/Cucumber/RestAssured in CI, plus opt-in Selenium and AssertJ-Swing UI automation) and Allure reports auto-published to GitHub Pages |
+| [MeridianHealth-test-automation](https://github.com/REZAULKARIM2024/MeridianHealth-test-automation) | React • Node.js/Express • MySQL • Playwright • TypeScript • Allure • GitHub Actions | Full-stack telehealth demo app (booking, pharmacy, clinical trials) built alongside its own 73-test Playwright suite — UI, direct API/security, and app-lifecycle testing, 100% passing in CI; a real server-crash bug, a CI-only Playwright/DOM race condition, and a browser-navigation UX gap were all found, root-caused, and fixed or documented along the way |
 
 ### 🔌 API Automation
 
