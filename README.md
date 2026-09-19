@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:2088FF,100:8E2DE2&height=220&section=header&text=Rezaul%20Karim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Automation%20Engineer%20%2F%20SDET%20%7C%20Brooklyn%2C%20NY%20%F0%9F%97%BD&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F76B8A&center=true&vCenter=true&width=560&lines=Building+Java+test+automation+frameworks;Selenium+%7C+Cucumber+%7C+TestNG+%7C+REST+Assured;3%2B+years+testing+financial+%26+enterprise+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F76B8A&center=true&vCenter=true&width=560&lines=Building+Java+test+automation+frameworks;Selenium+%7C+Cucumber+%7C+TestNG+%7C+REST+Assured;3%2B+years+testing+financial+%26+enterprise+apps;Now+building+RAG+%26+LLM-powered+QA+tools)](https://git.io/typing-svg)
 
 <p>
 <a href="mailto:rknyc2021@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -18,16 +18,17 @@
 
 ## 📝 About Me
 
-> QA Automation Engineer / SDET with **3+ years** of experience designing and building Java-based test automation frameworks for financial and enterprise applications. Currently automating a **financial services platform** at Transfotech Global Corp. Core strength is layered framework design — UI (Selenium + Page Object Model), BDD (Cucumber/Gherkin), API (RestAssured), mobile (Appium), accessibility (axe-core), and performance testing — wired into TestNG/Maven with Allure, Cucumber HTML, and Jenkins-driven reporting. Comfortable extending beyond the core Java stack into Playwright, Cypress, and Python when a project calls for it.
+> QA Automation Engineer / SDET with **3+ years** of experience designing and building Java-based test automation frameworks for financial and enterprise applications. Currently automating a **financial services platform** at Transfotech Global Corp. Core strength is layered framework design — UI (Selenium + Page Object Model), BDD (Cucumber/Gherkin), API (RestAssured), mobile (Appium), accessibility (axe-core), and performance testing — wired into TestNG/Maven with Allure, Cucumber HTML, and Jenkins-driven reporting. Comfortable extending beyond the core Java stack into Playwright, Cypress, and Python when a project calls for it — and actively building applied GenAI/LLM tooling (RAG pipelines, AI-powered QA automation) to bridge traditional QA engineering with AI engineering.
 
 ### 🎯 Current Focus Areas
 
 - 🏦 Automating a financial services platform (Java · Selenium · Cucumber · TestNG) at Transfotech Global Corp
+- 🤖 Building applied GenAI tooling — a RAG chatbot (local embeddings + FAISS + Claude API) and an LLM-powered QA test case generator
 - 📱 Building out Android mobile test automation with Appium 3 + UiAutomator2
 - 📊 Deepening test observability — unifying Cucumber, TestNG, and Allure reporting into a single dashboard per project
 - 🌐 Keeping cross-framework skills current across Playwright, Cypress, and Python/Behave
 - 🏗️ Designed, built, and automated a full-stack banking platform (Java Swing + REST API + React) end-to-end as a portfolio project, pairing system design with a three-layer test strategy
-- 💞️ Open to collaborating on open-source QA automation projects
+- 💞️ Open to collaborating on open-source QA automation and applied AI/GenAI projects
 
 ### 💬 Ask Me About
 
@@ -37,6 +38,7 @@
 <img src="https://img.shields.io/badge/BDD%20with%20Cucumber-23D96C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/API%20Testing-8E2DE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CI%2FCD%20with%20Jenkins-D24939?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20%2F%20LLM%20Apps-10A37F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI--Assisted%20QA-F7B500?style=for-the-badge"/>
 </p>
 
@@ -54,6 +56,7 @@
 <img src="https://img.shields.io/badge/CI%2FCD%20Pipeline%20Integration-D24939?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Defect%20Lifecycle%20Management-0052CC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Regression%20%26%20Smoke%20Testing-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20%2F%20LLM%20Applications-10A37F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI--Assisted%20QA-F7B500?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DevSecOps-CC0000?style=for-the-badge"/>
 </p>
@@ -77,6 +80,17 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sauce%20Labs-E2231A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+</p>
+
+<p align="center"><b>GenAI / LLM tooling</b></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-10A37F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sentence--Transformers-FFCA28?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6B4FBB?style=for-the-badge"/>
 </p>
 
 ### 💻 Programming Languages
@@ -183,7 +197,20 @@
 | Unit Testing | JUnit 5 | NY Coffee Co. POS service-layer suite, Branch-Teller-POS (130 tests) |
 | Build & Dependency Management | Maven | All Java frameworks |
 | Containerization | Docker, Docker Compose | Branch-Teller-POS |
+| RAG / LLM Application Development | Claude API, FAISS, sentence-transformers, Streamlit | rag-chatbot |
+| AI-Powered QA Tooling | Claude API, prompt engineering, structured JSON generation | qa-test-case-agent |
 | Testing Practices | Manual, Functional, Regression, Smoke, Cross-Browser, Negative/Boundary, Security-Header | Across all frameworks |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🤖 GenAI / AI Engineering Projects
+
+Applied LLM engineering projects built to bridge QA Automation Engineering with AI Engineering.
+
+| Project | Stack | Description |
+|---|---|---|
+| [rag-chatbot](https://github.com/REZAULKARIM2024/rag-chatbot) | Python • sentence-transformers • FAISS • Claude API • Streamlit | Retrieval-Augmented Generation chatbot that answers questions from personal documents. Local embeddings + FAISS vector search for retrieval, Claude API for grounded generation, multi-turn conversation memory, and a Streamlit web UI with document upload and one-click re-indexing |
+| [qa-test-case-agent](https://github.com/REZAULKARIM2024/qa-test-case-agent) | Python • Claude API | AI agent that generates structured QA test cases (positive, negative, boundary, security) from a user story/requirement, applying real test design techniques and exporting directly to Zephyr/Jira-importable CSV |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -251,6 +278,7 @@
 This framework is built using modern engineering methodologies, leveraging my technical training from **Google & DeepLearning.AI**:
 
 *   **AI-Assisted Engineering:** Utilized Generative AI and advanced Prompt Engineering (GitHub Copilot, Claude) to accelerate test case scaffolding, streamline Page Object Model (POM) development, and optimize custom Java/JavaScript automation methods.
+*   **Applied GenAI Engineering:** Went beyond AI-assisted coding to build and ship two standalone GenAI applications — a RAG chatbot (local embeddings, FAISS vector search, Claude API, Streamlit UI) and an LLM-powered QA test case generator — demonstrating hands-on retrieval-augmented generation and prompt-engineering skills, not just AI-assisted tooling.
 *   **Security-Aware Testing (DevSecOps):** Integrated core security validation principles within the test workflows. The framework goes beyond functional testing to validate REST API JWT token authorization, verify input sanitization to guard against SQL Injection vulnerabilities, and ensure secure data handling during backend assertions.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
