@@ -201,6 +201,19 @@
 | AI-Powered QA Tooling | Claude API, prompt engineering, structured JSON generation | qa-test-case-agent |
 | Testing Practices | Manual, Functional, Regression, Smoke, Cross-Browser, Negative/Boundary, Security-Header | Across all frameworks |
 
+### 🧭 Testing Methodologies & Practices
+
+| Practice | Details | Tools |
+|---|---|---|
+| Agile Scrum | Sprint planning, standups, retros, velocity tracking | Jira, Confluence |
+| BDD | Gherkin, Given/When/Then, living documentation | Cucumber, Behave |
+| SDLC/STLC | Full lifecycle from requirements to production | Jira, TestNG, Maven |
+| Page Object Model | Element abstraction, maintainable scripts | Selenium, Playwright |
+| CI/CD Integration | Automated build/test, quality gates, deployment | Jenkins, GitHub Actions, Maven |
+| API Testing | Contract testing, data-driven scenarios, auth testing | Postman, Rest Assured |
+| Defect Management | Triage, severity assessment, root cause analysis | Jira |
+| Cloud-Based Testing | Cross-browser/device testing, real-time dashboards | Sauce Labs, AWS |
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🤖 GenAI / AI Engineering Projects
