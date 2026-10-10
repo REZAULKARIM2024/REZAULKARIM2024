@@ -214,6 +214,18 @@
 | Defect Management | Triage, severity assessment, root cause analysis | Jira |
 | Cloud-Based Testing | Cross-browser/device testing, real-time dashboards | Sauce Labs, AWS |
 
+### 🏗️ How I Build Automation Frameworks
+
+| Layer | Approach | Tools |
+|---|---|---|
+| 1. Requirements → Test design | Turn user stories into positive, negative, boundary and security scenarios before writing any code | Jira, Zephyr, BDD (Gherkin) |
+| 2. Framework structure | Page Object Model, reusable utilities, config-driven environments, no hardcoded test data | Java, Selenium, Cypress, JavaScript |
+| 3. Test runner & data | Data-driven tests, parallel execution, tagged suites (smoke / regression) | TestNG, JUnit 5, Cucumber |
+| 4. API & database layer | API contract and auth checks, DB validation of what the UI reports | Postman, Rest Assured, SQL |
+| 5. Reporting | Readable reports with screenshots and logs on failure | Allure / Extent-style reports |
+| 6. CI/CD | Every commit builds and runs smoke tests; regression runs on schedule; quality gates block bad builds | Maven, Jenkins, GitHub Actions, Docker |
+| 7. Maintenance | Stable locators, flaky-test triage, root-cause analysis on failures | Jira, code reviews |
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🤖 GenAI / AI Engineering Projects
@@ -222,7 +234,7 @@ Applied LLM engineering projects built to bridge QA Automation Engineering with 
 
 | Project | Stack | Description |
 |---|---|---|
-| [rag-chatbot](https://github.com/REZAULKARIM2024/rag-chatbot) | Python • sentence-transformers • FAISS • Claude API • Streamlit | Retrieval-Augmented Generation chatbot that answers questions from personal documents. Local embeddings + FAISS vector search for retrieval, Claude API for grounded generation, multi-turn conversation memory, and a Streamlit web UI with document upload and one-click re-indexing |
+| [rag-chatbot](https://github.com/REZAULKARIM2024/rag-chatbot) · [🔴 Live demo](https://rezaul-rag-chatbot.streamlit.app/) | Python • sentence-transformers • FAISS • PostgreSQL/pgvector • LangGraph • Claude API • Streamlit | Retrieval-Augmented Generation chatbot that answers questions from personal documents. Local embeddings with a switchable vector store (FAISS or PostgreSQL/pgvector on Neon), Claude API for grounded generation, an agentic LangGraph mode that self-checks answers for groundedness and retries retrieval, multi-turn conversation memory, a Streamlit web UI with document upload and one-click re-indexing, plus a pytest suite, a retrieval evaluation harness (hit@k / MRR) and GitHub Actions CI |
 | [qa-test-case-agent](https://github.com/REZAULKARIM2024/qa-test-case-agent) | Python • Claude API | AI agent that generates structured QA test cases (positive, negative, boundary, security) from a user story/requirement, applying real test design techniques and exporting directly to Zephyr/Jira-importable CSV |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
