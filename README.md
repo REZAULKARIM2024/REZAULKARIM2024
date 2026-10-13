@@ -23,7 +23,7 @@
 ### 🎯 Current Focus Areas
 
 - 🏦 Automating a financial services platform (Java · Selenium · Cucumber · TestNG) at Transfotech Global Corp
-- 🤖 Building applied GenAI tooling — a RAG chatbot (local embeddings + FAISS + Claude API) and an LLM-powered QA test case generator
+- 🤖 Building applied GenAI tooling — a RAG chatbot (local embeddings + FAISS/pgvector + Claude API), an LLM-powered QA test case generator, and a safety-first LLM browser testing agent
 - 📱 Building out Android mobile test automation with Appium 3 + UiAutomator2
 - 📊 Deepening test observability — unifying Cucumber, TestNG, and Allure reporting into a single dashboard per project
 - 🌐 Keeping cross-framework skills current across Playwright, Cypress, and Python/Behave
@@ -199,6 +199,7 @@
 | Containerization | Docker, Docker Compose | Branch-Teller-POS |
 | RAG / LLM Application Development | Claude API, FAISS, sentence-transformers, Streamlit | rag-chatbot |
 | AI-Powered QA Tooling | Claude API, prompt engineering, structured JSON generation | qa-test-case-agent |
+| AI Agent Testing & Safety | Playwright, LLM browser agents, prompt-injection defences, red-team evaluation | browser-testing-agent, rag-chatbot |
 | Testing Practices | Manual, Functional, Regression, Smoke, Cross-Browser, Negative/Boundary, Security-Header | Across all frameworks |
 
 ### 🧭 Testing Methodologies & Practices
@@ -234,8 +235,9 @@ Applied LLM engineering projects built to bridge QA Automation Engineering with 
 
 | Project | Stack | Description |
 |---|---|---|
-| [rag-chatbot](https://github.com/REZAULKARIM2024/rag-chatbot) · [🔴 Live demo](https://rezaul-rag-chatbot.streamlit.app/) | Python • sentence-transformers • FAISS • PostgreSQL/pgvector • LangGraph • Claude API • Streamlit | Retrieval-Augmented Generation chatbot that answers questions from personal documents. Local embeddings with a switchable vector store (FAISS or PostgreSQL/pgvector on Neon), Claude API for grounded generation, an agentic LangGraph mode that self-checks answers for groundedness and retries retrieval, multi-turn conversation memory, a Streamlit web UI with document upload and one-click re-indexing, plus a pytest suite, a retrieval evaluation harness (hit@k / MRR) and GitHub Actions CI |
+| [rag-chatbot](https://github.com/REZAULKARIM2024/rag-chatbot) · [🔴 Live demo](https://rezaul-rag-chatbot.streamlit.app/) | Python • sentence-transformers • FAISS • PostgreSQL/pgvector • LangGraph • Claude API • Streamlit | Retrieval-Augmented Generation chatbot that answers questions from personal documents. Local embeddings with a switchable vector store (FAISS or PostgreSQL/pgvector on Neon), Claude API for grounded generation, an agentic LangGraph mode that self-checks answers for groundedness and retries retrieval, multi-turn conversation memory, a Streamlit web UI with document upload and one-click re-indexing, plus a pytest suite, a retrieval evaluation harness (hit@k / MRR) and GitHub Actions CI, prompt-injection defences with a red-team eval gate (14 attacks, zero false positives on the corpus) and per-call token/cost tracking |
 | [qa-test-case-agent](https://github.com/REZAULKARIM2024/qa-test-case-agent) · [🔴 Live demo](https://rezaul-test-case-generator.streamlit.app/) | Python • Claude API • Streamlit • pytest • GitHub Actions | AI agent that generates structured QA test cases (positive, negative, boundary, security) from a user story/requirement, applying real test design techniques and exporting directly to Zephyr/Jira-importable CSV. Treats LLM output as untrusted: schema validation, CSV formula-injection protection, 32 offline pytest tests and CI |
+| [browser-testing-agent](https://github.com/REZAULKARIM2024/browser-testing-agent) | Python • Playwright • Claude API • pytest • GitHub Actions | LLM-driven browser test agent where the model proposes actions and deterministic code decides pass/fail: action and host allow-lists (blocks navigation, link clicks and post-click redirects to other sites), credentials the model never sees, prompt-injection filtering of page text, and a rule that a pass needs a verified assertion. 39 offline pytest tests run in real headless Chromium in CI, with safety rules mutation-checked by hand |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -303,7 +305,7 @@ Applied LLM engineering projects built to bridge QA Automation Engineering with 
 This framework is built using modern engineering methodologies, leveraging my technical training from **Google & DeepLearning.AI**:
 
 *   **AI-Assisted Engineering:** Utilized Generative AI and advanced Prompt Engineering (GitHub Copilot, Claude) to accelerate test case scaffolding, streamline Page Object Model (POM) development, and optimize custom Java/JavaScript automation methods.
-*   **Applied GenAI Engineering:** Went beyond AI-assisted coding to build and ship two standalone GenAI applications — a RAG chatbot (local embeddings, FAISS vector search, Claude API, Streamlit UI) and an LLM-powered QA test case generator — demonstrating hands-on retrieval-augmented generation and prompt-engineering skills, not just AI-assisted tooling.
+*   **Applied GenAI Engineering:** Went beyond AI-assisted coding to build and ship three standalone GenAI applications — a RAG chatbot (local embeddings, vector search, Claude API, Streamlit UI), an LLM-powered QA test case generator, and an LLM browser testing agent with a safety harness — demonstrating hands-on retrieval-augmented generation, agent safety and LLM evaluation skills, not just AI-assisted tooling.
 *   **Security-Aware Testing (DevSecOps):** Integrated core security validation principles within the test workflows. The framework goes beyond functional testing to validate REST API JWT token authorization, verify input sanitization to guard against SQL Injection vulnerabilities, and ensure secure data handling during backend assertions.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
