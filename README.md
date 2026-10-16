@@ -25,6 +25,7 @@
 | 📍 **Location** | New York, NY |
 | 💼 **Currently** | QA Automation Engineer at Transfotech Global Corp (financial services platform) |
 | 🎯 **Open to** | SDET / Test Automation roles, including AI-system testing |
+| 📊 **In numbers** | 5 flagship SDET frameworks (69 to 156 automated tests or scenarios each) · 3 AI-quality projects with **197 offline tests** and CI · 3 hosted live demos |
 | 🔴 **Live demos** | [rag-chatbot](https://rezaul-rag-chatbot.streamlit.app/) · [qa-test-case-agent](https://rezaul-test-case-generator.streamlit.app/) · [browser-testing-agent](https://browser-testing-agent-dfzkfylcwc8a2bmyqjirgk.streamlit.app/) |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -52,7 +53,9 @@
 **Mobile:** Appium 3 · UiAutomator2
 **Runners & reports:** TestNG · JUnit 5 · Maven · Allure · Cucumber HTML · ExtentReports
 **CI/CD & cloud:** GitHub Actions · Jenkins · Docker · Sauce Labs
-**Quality checks:** axe-core accessibility · JMeter performance · security-header and JWT checks
+**Quality checks:** axe-core accessibility · JMeter performance · security-header checks · REST API JWT authorization checks and SQL-injection input validation
+
+**Certifications:** Google Cybersecurity Certificate courses and NYU Cyber Security Specialization courses (Coursera, 2023). Training in AI and prompt engineering from Google and DeepLearning.AI.
 
 ### 🧩 Technical Skills Matrix
 
@@ -86,6 +89,19 @@
 | 6. CI/CD | Every commit builds and runs smoke tests; regression runs on schedule; quality gates block bad builds | Maven, Jenkins, GitHub Actions, Docker |
 | 7. Maintenance | Stable locators, flaky-test triage, root-cause analysis on failures | Jira, code reviews |
 
+### 🧭 Testing Methodologies & Practices
+
+| Practice | Details | Tools |
+|---|---|---|
+| Agile Scrum | Sprint planning, standups, retros, velocity tracking | Jira, Confluence |
+| BDD | Gherkin, Given/When/Then, living documentation | Cucumber, Behave |
+| SDLC/STLC | Full lifecycle from requirements to production | Jira, TestNG, Maven |
+| Page Object Model | Element abstraction, maintainable scripts | Selenium, Playwright |
+| CI/CD Integration | Automated build/test, quality gates, deployment | Jenkins, GitHub Actions, Maven |
+| API Testing | Contract testing, data-driven scenarios, auth testing | Postman, Rest Assured |
+| Defect Management | Triage, severity assessment, root cause analysis | Jira |
+| Cloud-Based Testing | Cross-browser/device testing, real-time dashboards | Sauce Labs, AWS |
+
 <details>
 <summary><b>📂 More automation projects</b></summary>
 
@@ -93,15 +109,12 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| [ParaBank-BDD-Test-Automation-Framework](https://github.com/REZAULKARIM2024/ParaBank-BDD-Test-Automation-Framework) | Java • Selenium • Cucumber • TestNG • RestAssured • Allure | Multi-layer framework against a live public banking app — UI/BDD, REST API, accessibility & performance in one project; 69 UI scenarios, 100% pass |
-| [OrangeHRM-BDD-Test-Automation-Framework](https://github.com/REZAULKARIM2024/OrangeHRM-BDD-Test-Automation-Framework) | Java • Selenium • Cucumber • TestNG • RestAssured • Allure | Multi-layer framework against a live public HR app — UI/BDD, REST API, accessibility, security-header & performance testing in one project; 72 tests, 100% pass |
 | [NorthFace-Automationexercise_Automation-Framework](https://github.com/REZAULKARIM2024/NorthFace-Automationexercise_Automation-Framework) | Java • Selenium • Cucumber • TestNG • RestAssured • JUnit | Multi-layer framework spanning UI, E2E, API, unit, accessibility, and performance testing across two real-world sites |
 
 ### 📱 Mobile Automation (Appium)
 
 | Project | Stack | Description |
 |---|---|---|
-| [AndroidAppiumTest-Framework](https://github.com/REZAULKARIM2024/AndroidAppiumTest-Framework) | Java 17 • Appium 3 • UiAutomator2 • TestNG | Android UI automation with two full suites — 75 tests across 12 categories on the MyDemo App |
 | [AppiumMobileAutomation_Framework-ApiDemos](https://github.com/REZAULKARIM2024/AppiumMobileAutomation_Framework-ApiDemos) | Java • Appium • TestNG • POM | Mobile automation framework targeting Google's ApiDemos sample Android app |
 
 ### 🖥️ Application + Test Automation
@@ -110,8 +123,6 @@
 |---|---|---|
 | [Payroll-Management-Systems_Automation](https://github.com/REZAULKARIM2024/Payroll-Management-Systems_Automation_Java_MySql_Selenium-) | Java Swing • MySQL • Selenium • Maven | Desktop payroll management app — employee records, salary calculation, payslip generation, tested end-to-end |
 | [NY-Coffee-Co.-Point-of-Sale-System](https://github.com/REZAULKARIM2024/NY-Coffee-Co.-Point-of-Sale-System) | Java Swing • MySQL • JUnit 5 • REST API • Postman | Coffee-shop POS app (checkout, payroll, inventory, delivery) with a 30-test JUnit suite and a dependency-free REST API layer backed by a full Postman collection |
-| [branch-teller-pos](https://github.com/REZAULKARIM2024/branch-teller-pos) | Java Swing • MySQL • REST API • React/TypeScript • JUnit 5 • Cucumber • RestAssured • Selenium • AssertJ-Swing • Docker • GitHub Actions | Full-stack core banking simulation — same service layer exposed via Swing desktop, REST API, and a React web console — with a 156-test suite across three automation layers (JUnit5/Cucumber/RestAssured in CI, plus opt-in Selenium and AssertJ-Swing UI automation) and Allure reports auto-published to GitHub Pages |
-| [MeridianHealth-test-automation](https://github.com/REZAULKARIM2024/MeridianHealth-test-automation) | React • Node.js/Express • MySQL • Playwright • TypeScript • Allure • GitHub Actions | Full-stack telehealth demo app (booking, pharmacy, clinical trials) built alongside its own 73-test Playwright suite — UI, direct API/security, and app-lifecycle testing, 100% passing in CI; a real server-crash bug, a CI-only Playwright/DOM race condition, and a browser-navigation UX gap were all found, root-caused, and fixed or documented along the way |
 
 ### 🔌 API Automation
 
