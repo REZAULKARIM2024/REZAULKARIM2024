@@ -1,182 +1,58 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:2088FF,100:8E2DE2&height=220&section=header&text=Rezaul%20Karim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Automation%20Engineer%20%2F%20SDET%20%7C%20Brooklyn%2C%20NY%20%F0%9F%97%BD&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:2088FF,100:8E2DE2&height=220&section=header&text=Rezaul%20Karim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SDET%20%2F%20QA%20Automation%20Engineer%20%7C%20New%20York%20%F0%9F%97%BD&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F76B8A&center=true&vCenter=true&width=560&lines=Building+Java+test+automation+frameworks;Selenium+%7C+Cucumber+%7C+TestNG+%7C+REST+Assured;3%2B+years+testing+financial+%26+enterprise+apps;Now+building+RAG+%26+LLM-powered+QA+tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F76B8A&center=true&vCenter=true&width=600&lines=SDET+%7C+Layered+test+automation+frameworks;Java+%2F+Selenium+%2F+Cucumber+%2F+REST+Assured+%2F+Appium;UI+%2B+API+%2B+DB+%2B+CI%2FCD+in+one+framework;Also+testing+AI+systems%3A+RAG+and+LLM+agents)](https://git.io/typing-svg)
 
 <p>
 <a href="mailto:rknyc2021@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://rezaulkarim2024.github.io"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://github.com/REZAULKARIM2024"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/rezaul-karim-803a3b273"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="tel:+13472213047"><img src="https://img.shields.io/badge/Phone-+1%20347%20221%203047-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=REZAULKARIM2024&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![rag-chatbot](https://github.com/REZAULKARIM2024/rag-chatbot/actions/workflows/ci.yml/badge.svg)](https://github.com/REZAULKARIM2024/rag-chatbot/actions/workflows/ci.yml) [![qa-test-case-agent](https://github.com/REZAULKARIM2024/qa-test-case-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/REZAULKARIM2024/qa-test-case-agent/actions/workflows/ci.yml) [![browser-testing-agent](https://github.com/REZAULKARIM2024/browser-testing-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/REZAULKARIM2024/browser-testing-agent/actions/workflows/ci.yml)
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📝 About Me
+## 📌 At a Glance
 
-> QA Automation Engineer / SDET with **3+ years** of experience designing and building Java-based test automation frameworks for financial and enterprise applications. Currently automating a **financial services platform** at Transfotech Global Corp. Core strength is layered framework design — UI (Selenium + Page Object Model), BDD (Cucumber/Gherkin), API (RestAssured), mobile (Appium), accessibility (axe-core), and performance testing — wired into TestNG/Maven with Allure, Cucumber HTML, and Jenkins-driven reporting. Comfortable extending beyond the core Java stack into Playwright, Cypress, and Python when a project calls for it — and actively building applied GenAI/LLM tooling (RAG pipelines, AI-powered QA automation) to bridge traditional QA engineering with AI engineering.
+**Who I am.** SDET with 3+ years building layered Java test automation for financial and enterprise applications: UI (Selenium + Page Object Model), BDD (Cucumber), API (REST Assured), mobile (Appium), accessibility (axe-core) and performance, wired into TestNG/Maven with Allure reporting and CI. I also test AI systems: RAG retrieval, LLM output and LLM browser agents, with the same habit of defining what "good" means and building the harness that proves it.
 
-### 🎯 Current Focus Areas
+| | |
+|---|---|
+| 📍 **Location** | New York, NY |
+| 💼 **Currently** | QA Automation Engineer at Transfotech Global Corp (financial services platform) |
+| 🎯 **Open to** | SDET / Test Automation roles, including AI-system testing |
+| 🔴 **Live demos** | [rag-chatbot](https://rezaul-rag-chatbot.streamlit.app/) · [qa-test-case-agent](https://rezaul-test-case-generator.streamlit.app/) · [browser-testing-agent](https://browser-testing-agent-dfzkfylcwc8a2bmyqjirgk.streamlit.app/) |
 
-- 🏦 Automating a financial services platform (Java · Selenium · Cucumber · TestNG) at Transfotech Global Corp
-- 🤖 Building applied GenAI tooling — a RAG chatbot (local embeddings + FAISS/pgvector + Claude API), an LLM-powered QA test case generator, and a safety-first LLM browser testing agent
-- 📱 Building out Android mobile test automation with Appium 3 + UiAutomator2
-- 📊 Deepening test observability — unifying Cucumber, TestNG, and Allure reporting into a single dashboard per project
-- 🌐 Keeping cross-framework skills current across Playwright, Cypress, and Python/Behave
-- 🏗️ Designed, built, and automated a full-stack banking platform (Java Swing + REST API + React) end-to-end as a portfolio project, pairing system design with a three-layer test strategy
-- 💞️ Open to collaborating on open-source QA automation and applied AI/GenAI projects
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 💬 Ask Me About
+## ⭐ Flagship SDET Projects
 
-<p align="center">
-<img src="https://img.shields.io/badge/Test%20Automation%20Strategy-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Selenium%20%2B%20POM-2088FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BDD%20with%20Cucumber-23D96C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20Testing-8E2DE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CI%2FCD%20with%20Jenkins-D24939?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG%20%2F%20LLM%20Apps-10A37F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI--Assisted%20QA-F7B500?style=for-the-badge"/>
-</p>
+| Project | Layers automated | Result |
+|---|---|---|
+| [branch-teller-pos](https://github.com/REZAULKARIM2024/branch-teller-pos) | Core banking simulation exposed as Swing desktop, REST API and React console; JUnit 5 · Cucumber · REST Assured in CI, plus opt-in Selenium and AssertJ-Swing UI automation; Docker; Allure on GitHub Pages | 156-test suite across three automation layers |
+| [MeridianHealth-test-automation](https://github.com/REZAULKARIM2024/MeridianHealth-test-automation) | React/Node/MySQL telehealth app built alongside its own Playwright (TypeScript) suite: UI, direct API/security, app-lifecycle; GitHub Actions + Allure | 73 tests, 100% passing in CI; a real server-crash bug and a CI-only DOM race condition found and root-caused |
+| [OrangeHRM-BDD-Test-Automation-Framework](https://github.com/REZAULKARIM2024/OrangeHRM-BDD-Test-Automation-Framework) | Java · Selenium · Cucumber · TestNG · REST Assured; UI/BDD, REST API, accessibility, security headers, performance | 72 tests, 100% pass |
+| [ParaBank-BDD-Test-Automation-Framework](https://github.com/REZAULKARIM2024/ParaBank-BDD-Test-Automation-Framework) | Same layered design against a live banking app; UI/BDD, API, accessibility, performance | 69 UI scenarios, 100% pass |
+| [AndroidAppiumTest-Framework](https://github.com/REZAULKARIM2024/AndroidAppiumTest-Framework) | Java 17 · Appium 3 · UiAutomator2 · TestNG | 75 tests across 12 categories |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🧰 Tech Stack
 
-### 🎯 Core Expertise
-
 <p align="center">
-<img src="https://img.shields.io/badge/Test%20Automation%20Framework%20Design-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BDD%20%2F%20Gherkin-23D96C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20Test%20Automation-8E2DE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mobile%20Test%20Automation-662D91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CI%2FCD%20Pipeline%20Integration-D24939?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Defect%20Lifecycle%20Management-0052CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Regression%20%26%20Smoke%20Testing-2088FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG%20%2F%20LLM%20Applications-10A37F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI--Assisted%20QA-F7B500?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DevSecOps-CC0000?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=java,py,ts,js,selenium,postman,mysql,postgres,git,github,githubactions,jenkins,docker,linux" />
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,selenium,postman,mysql,postgres,git,github,githubactions,jenkins,linux,py,js,ts" />
-</p>
-
-<p align="center"><b>QA-specific frameworks &amp; tools</b> <i>(not in the icon set above)</i></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rest%20Assured-43B02A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Allure%20Report-FF6C37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sauce%20Labs-E2231A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-</p>
-
-<p align="center"><b>GenAI / LLM tooling</b></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG%20Pipelines-10A37F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sentence--Transformers-FFCA28?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6B4FBB?style=for-the-badge"/>
-</p>
-
-### 💻 Programming Languages
-
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🧪 UI Automation & Testing Frameworks
-
-<p align="center">
-<img src="https://img.shields.io/badge/Selenium%20WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Page%20Object%20Model-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AssertJ--Swing-2E7D32?style=for-the-badge"/>
-</p>
-
-### 🔌 API Testing & REST Automation
-
-<p align="center">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rest%20Assured-43B02A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JSON%20Schema%20Validation-000000?style=for-the-badge&logo=json&logoColor=white"/>
-</p>
-
-### 🛠️ Build Tools & CI/CD
-
-<p align="center">
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & Reporting Platforms
-
-<p align="center">
-<img src="https://img.shields.io/badge/Sauce%20Labs-E2231A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Allure%20Report-FF6C37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cucumber%20HTML%20Reports-23D96C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ExtentReports-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TestNG%20Reports-FF6C37?style=for-the-badge"/>
-</p>
-
-### 🔧 Version Control & Tools
-
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-</p>
-
-### 🗄️ Database Technologies
-
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-### 🖥️ Operating Systems & Environments
-
-<p align="center">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-
-### ♿ Accessibility, Security & Performance Testing
-
-<p align="center">
-<img src="https://img.shields.io/badge/Accessibility%20(axe--core)-6B4FBB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Security%20Testing-CC0000?style=for-the-badge"/>
-</p>
+**UI & BDD:** Selenium WebDriver · Page Object Model · Cucumber / Gherkin · Behave · Playwright · Cypress · AssertJ-Swing
+**API & data:** REST Assured · Postman · JSON Schema validation · SQL (MySQL, PostgreSQL, Oracle)
+**Mobile:** Appium 3 · UiAutomator2
+**Runners & reports:** TestNG · JUnit 5 · Maven · Allure · Cucumber HTML · ExtentReports
+**CI/CD & cloud:** GitHub Actions · Jenkins · Docker · Sauce Labs
+**Quality checks:** axe-core accessibility · JMeter performance · security-header and JWT checks
 
 ### 🧩 Technical Skills Matrix
 
@@ -197,23 +73,6 @@
 | Unit Testing | JUnit 5 | NY Coffee Co. POS service-layer suite, Branch-Teller-POS (130 tests) |
 | Build & Dependency Management | Maven | All Java frameworks |
 | Containerization | Docker, Docker Compose | Branch-Teller-POS |
-| RAG / LLM Application Development | Claude API, FAISS, sentence-transformers, Streamlit | rag-chatbot |
-| AI-Powered QA Tooling | Claude API, prompt engineering, structured JSON generation | qa-test-case-agent |
-| AI Agent Testing & Safety | Playwright, LLM browser agents, prompt-injection defences, red-team evaluation | browser-testing-agent, rag-chatbot |
-| Testing Practices | Manual, Functional, Regression, Smoke, Cross-Browser, Negative/Boundary, Security-Header | Across all frameworks |
-
-### 🧭 Testing Methodologies & Practices
-
-| Practice | Details | Tools |
-|---|---|---|
-| Agile Scrum | Sprint planning, standups, retros, velocity tracking | Jira, Confluence |
-| BDD | Gherkin, Given/When/Then, living documentation | Cucumber, Behave |
-| SDLC/STLC | Full lifecycle from requirements to production | Jira, TestNG, Maven |
-| Page Object Model | Element abstraction, maintainable scripts | Selenium, Playwright |
-| CI/CD Integration | Automated build/test, quality gates, deployment | Jenkins, GitHub Actions, Maven |
-| API Testing | Contract testing, data-driven scenarios, auth testing | Postman, Rest Assured |
-| Defect Management | Triage, severity assessment, root cause analysis | Jira |
-| Cloud-Based Testing | Cross-browser/device testing, real-time dashboards | Sauce Labs, AWS |
 
 ### 🏗️ How I Build Automation Frameworks
 
@@ -227,21 +86,8 @@
 | 6. CI/CD | Every commit builds and runs smoke tests; regression runs on schedule; quality gates block bad builds | Maven, Jenkins, GitHub Actions, Docker |
 | 7. Maintenance | Stable locators, flaky-test triage, root-cause analysis on failures | Jira, code reviews |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🤖 GenAI / AI Engineering Projects
-
-Applied LLM engineering projects built to bridge QA Automation Engineering with AI Engineering.
-
-| Project | Stack | Description |
-|---|---|---|
-| [rag-chatbot](https://github.com/REZAULKARIM2024/rag-chatbot) · [🔴 Live demo](https://rezaul-rag-chatbot.streamlit.app/) | Python • sentence-transformers • FAISS • PostgreSQL/pgvector • LangGraph • Claude API • Streamlit | Retrieval-Augmented Generation chatbot that answers questions from personal documents. Local embeddings with a switchable vector store (FAISS or PostgreSQL/pgvector on Neon), Claude API for grounded generation, an agentic LangGraph mode that self-checks answers for groundedness and retries retrieval, multi-turn conversation memory, a Streamlit web UI with document upload and one-click re-indexing, plus a pytest suite, a retrieval evaluation harness (hit@k / MRR) and GitHub Actions CI, prompt-injection defences with a red-team eval gate (14 attacks, zero false positives on the corpus) and per-call token/cost tracking |
-| [qa-test-case-agent](https://github.com/REZAULKARIM2024/qa-test-case-agent) · [🔴 Live demo](https://rezaul-test-case-generator.streamlit.app/) | Python • Claude API • Streamlit • pytest • GitHub Actions | AI agent that generates structured QA test cases (positive, negative, boundary, security) from a user story/requirement, applying real test design techniques and exporting directly to Zephyr/Jira-importable CSV. Treats LLM output as untrusted: schema validation, CSV formula-injection protection, acceptance-criteria traceability with uncovered-criteria detection and a coverage report, 68 offline pytest tests and CI |
-| [browser-testing-agent](https://github.com/REZAULKARIM2024/browser-testing-agent) · [🔴 Live demo](https://browser-testing-agent-dfzkfylcwc8a2bmyqjirgk.streamlit.app/) | Python • Playwright • Claude API • Streamlit • pytest • GitHub Actions | LLM-driven browser test agent where the model proposes actions and deterministic code decides pass/fail: action and host allow-lists (blocks navigation, link clicks, pop-ups, redirects and cross-site form posts), credentials the model never sees, prompt-injection filtering of page text, and a rule that a pass needs a verified assertion. The live demo replays 15 preset scenarios (normal tests, model mistakes, attacks) in real headless Chromium. 67 offline pytest tests run in CI. Adversarial tests found and closed four real gaps, each fix mutation-checked by hand |
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🚀 Featured Automation Projects
+<details>
+<summary><b>📂 More automation projects</b></summary>
 
 ### ☕ Enterprise BDD Frameworks (Java · Selenium · Cucumber · TestNG)
 
@@ -283,86 +129,78 @@ Applied LLM engineering projects built to bridge QA Automation Engineering with 
 | [QaBrainsAutomation_Python](https://github.com/REZAULKARIM2024/QaBrainsAutomation_Python) | Python • Playwright • Behave | BDD framework with POM and Allure reporting |
 | [QaBrainAutomation_TypeScript_Playwright](https://github.com/REZAULKARIM2024/QaBrainAutomation_TypeScript_Playwright) | TypeScript • Playwright • Cucumber | BDD automation framework with POM |
 
+</details>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🖥️ Platform & Environment Expertise
+## 🤖 Also: I Test AI Systems
 
-| Category | Details |
-|---|---|
-| **Browsers** | Chrome, Firefox, Edge — cross-browser & compatibility testing |
-| **Mobile** | Android (physical device & emulator) via Appium 3 + UiAutomator2 |
-| **Operating Systems** | Windows |
-| **Cloud Test Grids** | Sauce Labs |
-| **CI/CD** | Jenkins (Cucumber report generation), GitHub Actions |
-| **Databases** | MySQL, SQL, PostgreSQL, Oracle |
-| **IDE** | Eclipse |
-| **Build Tools** | Maven |
-| **Issue Tracking** | Jira |
-| **Version Control** | Git, GitHub |
+Three projects where the thing under test is an LLM system. Same SDET habits (tests that define "good", CI gates, mutation checks), new test object.
 
-## ⚡ Modern QA, AI, & DevSecOps Implementation
+### 🌐 browser-testing-agent
 
-This framework is built using modern engineering methodologies, leveraging my technical training from **Google & DeepLearning.AI**:
+**[Repo](https://github.com/REZAULKARIM2024/browser-testing-agent) · [🔴 Live demo](https://browser-testing-agent-dfzkfylcwc8a2bmyqjirgk.streamlit.app/)**: an LLM-driven browser test agent where **the model proposes actions and deterministic code decides pass or fail.** Web pages are untrusted input, and a model can claim a success it did not earn, so the runner enforces rules the model cannot talk its way around.
 
-*   **AI-Assisted Engineering:** Utilized Generative AI and advanced Prompt Engineering (GitHub Copilot, Claude) to accelerate test case scaffolding, streamline Page Object Model (POM) development, and optimize custom Java/JavaScript automation methods.
-*   **Applied GenAI Engineering:** Went beyond AI-assisted coding to build and ship three standalone GenAI applications — a RAG chatbot (local embeddings, vector search, Claude API, Streamlit UI), an LLM-powered QA test case generator, and an LLM browser testing agent with a safety harness — demonstrating hands-on retrieval-augmented generation, agent safety and LLM evaluation skills, not just AI-assisted tooling.
-*   **Security-Aware Testing (DevSecOps):** Integrated core security validation principles within the test workflows. The framework goes beyond functional testing to validate REST API JWT token authorization, verify input sanitization to guard against SQL Injection vulnerabilities, and ensure secure data handling during backend assertions.
+| Rule | Enforced by | Verified by |
+|---|---|---|
+| Only 7 action types run; anything else is rejected | `bta/actions.py` | `tests/test_actions.py` |
+| Browser may only visit allowed hosts; any other top-level navigation (link, form post, popup, delayed redirect) is aborted before it loads | `bta/runner.py` | 7 end-to-end tests |
+| Passwords only by key; the model sees key names, never values | `bta/runner.py`, `bta/planner.py` | e2e + planner tests |
+| A pass needs the model's claim **and** at least one verified assertion, and none failed | `bta/runner.py` | 2 e2e tests |
+| Step limit and "2 invalid actions in a row" stop a looping agent | `bta/runner.py` | 2 e2e tests |
+| Injection text is removed from page text, labels, titles and URLs before the model reads them | `bta/guard.py`, `bta/observe.py` | guard + 2 e2e tests |
+
+**Evidence:** 67 offline pytest tests in real headless Chromium · 15 replayable scenarios (normal tests, model mistakes, attacks) · CI green · each safety rule mutation-checked by hand (switch it off and a test fails).
+
+### 🔎 What my evaluations found
+
+The point of a harness is what it finds. These are real results from my own projects.
+
+| Project | Finding | Evidence |
+|---|---|---|
+| **browser-testing-agent** | The first version only checked the address *after* each action. Hostile pages exposed **four real gaps**: popup to another host (the run even *passed*), delayed redirect, cross-host form post, injection hidden in a button's `aria-label`. All closed. | Each fix mutation-checked; scenarios replayable in the live demo |
+| **rag-chatbot** | On a harder set (paraphrase, multi-document, unanswerable), retrieval held up: hit@4 **95.00%**, MRR **0.708** (base set 0.872), multi-document **100%**, paraphrase **92.86%**. | `eval/run_eval.py --explain` |
+| **rag-chatbot** | **A similarity cut-off cannot reliably refuse unanswerable in-domain questions** (AUROC 0.785). At 0.30 it kept only 75% of real questions and refused only 50% of unanswerable ones, so I did not set a threshold. | Threshold table in the README |
+| **rag-chatbot** | One miss traced to a shared keyword ("defect") pulling the wrong document ahead of the one holding the answer. | `--explain` output |
+| **qa-test-case-agent** | The coverage report flags requirements with **no test**, invented criteria IDs, and criteria covered only by happy-path tests. | 68 offline tests; 6 hand-made mutations all caught |
+
+### 🧪 The three projects
+
+| Project | Stack | What it does | Tests / CI |
+|---|---|---|---|
+| [rag-chatbot](https://github.com/REZAULKARIM2024/rag-chatbot) · [🔴 Live](https://rezaul-rag-chatbot.streamlit.app/) | Python · sentence-transformers · FAISS · pgvector · LangGraph · Claude API · Streamlit | RAG chatbot over personal documents: switchable vector store, agentic mode that self-checks groundedness, retrieval eval (hit@k, MRR, threshold table), prompt-injection defences with a red-team gate (14 attacks, 14 caught, 0 false positives on the corpus), per-call token and cost tracking | 62 tests · CI |
+| [qa-test-case-agent](https://github.com/REZAULKARIM2024/qa-test-case-agent) · [🔴 Live](https://rezaul-test-case-generator.streamlit.app/) | Python · Claude API · Streamlit | Turns a user story into positive, negative, boundary and security test cases; Zephyr/Jira-ready CSV. Output is treated as untrusted: schema validation, CSV formula-injection protection, **acceptance-criteria traceability** with a follow-up round for uncovered criteria and a coverage report | 68 tests · CI |
+| [browser-testing-agent](https://github.com/REZAULKARIM2024/browser-testing-agent) · [🔴 Live](https://browser-testing-agent-dfzkfylcwc8a2bmyqjirgk.streamlit.app/) | Python · Playwright · Claude API · Streamlit | See flagship above | 67 tests · CI |
+
+#### Honest limits
+
+- **None of the three has been measured against a live model in the repo** (that needs API credits). What is measured is the harness around the model: retrieval, safety rules, schema checks, coverage logic.
+- Prompt-injection scans are heuristic: they catch blunt attacks, not paraphrases. The allow-lists in the browser agent are the real protection.
+- In qa-test-case-agent, the criterion-to-test links are the model's *claim*. The code flags unlikely ones but cannot prove a test truly verifies a criterion.
+- A groundedness eval for rag-chatbot is built and ready (`eval/run_groundedness.py`) but has not been run yet.
+- I wrote my own evaluation harnesses first to understand what they measure. I have not yet used DeepEval, RAGAS or LangSmith; comparing against them is the next step.
+
+### 🧭 How I test AI systems
+
+| Practice | What I do | Where |
+|---|---|---|
+| Golden sets | Fixed question sets with known answers; CI fails if scores drop | rag-chatbot |
+| Retrieval metrics | hit@k, MRR, AUROC, threshold tables | rag-chatbot |
+| Untrusted output | Schema validation, formula-injection protection, no trust in model claims | qa-test-case-agent |
+| Requirements traceability | Criteria extraction, coverage report, uncovered-criteria follow-up | qa-test-case-agent |
+| Red-teaming | Hostile pages and injected documents, with known misses kept visible | rag-chatbot, browser-testing-agent |
+| Deterministic verdicts | The model proposes; code decides pass or fail | browser-testing-agent |
+| Mutation checks | Break each rule on purpose and confirm a test fails | all three |
+| Cost awareness | Per-call token and cost tracking; credit-safe evals that refuse to run without a key | rag-chatbot |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REZAULKARIM2024&theme=radical" width="100%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=REZAULKARIM2024&show_icons=true&theme=radical&cache_seconds=1800&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REZAULKARIM2024&layout=compact&theme=radical&cache_seconds=1800" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=REZAULKARIM2024&theme=radical&cache_seconds=1800" />
-<img src="https://github-profile-trophy.vercel.app/?username=REZAULKARIM2024&theme=radical&no-frame=true&row=1&column=6" />
 </div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/REZAULKARIM2024/REZAULKARIM2024/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-> The snake animation needs a one-time GitHub Actions setup — it renders blank until that workflow runs once.
-
-<details>
-<summary>⚙️ One-time setup for the snake animation</summary>
-
-Create `.github/workflows/snake.yml` in this repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: REZAULKARIM2024
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Commit it, then run it once manually from the **Actions** tab (Run workflow) — after that it auto-refreshes daily.
-
-</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
