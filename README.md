@@ -175,6 +175,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Accessibility%20(axe--core)-6B4FBB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+<img src="https://img.shields.io/badge/k6%20(SLO%20gates)-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
 <img src="https://img.shields.io/badge/Security%20Testing-CC0000?style=for-the-badge"/>
 </p>
 
@@ -189,7 +190,7 @@
 | API Testing | RestAssured, Postman, JSON Schema Validation, Playwright API testing | OrangeHRM, QaBrainsAPIAutomation (+ Postman), ParaBank API suite, NY Coffee Co. POS REST API, Branch-Teller-POS REST API, MeridianHealth-test-automation |
 | Cross-Browser / Cross-Framework | Selenium + Playwright (Chromium/Firefox/WebKit CI matrix), Cypress, TypeScript, Python | MeridianHealth-test-automation (Playwright, 76 tests, 3-browser CI, Allure + traces on GitHub Pages), QaBrains Cypress / Playwright / Python / TypeScript repos |
 | Accessibility Testing | axe-core | ParaBank accessibility suite, OrangeHRM accessibility suite |
-| Performance Testing | Apache JMeter, custom TestNG smoke checks | ParaBank performance suite, OrangeHRM performance checks |
+| Performance Testing | k6 (SLO thresholds as a CI gate), Apache JMeter, custom TestNG smoke checks | MeridianHealth-test-automation (k6 smoke, nightly), ParaBank performance suite, OrangeHRM performance checks |
 | Reporting & Observability | Allure, Playwright traces, Cucumber HTML reports, TestNG reports, Jenkins Cucumber Reports | ParaBank, OrangeHRM, banking-automation, mtc-auto-framework, Branch-Teller-POS (Allure on GitHub Pages), MeridianHealth-test-automation (Allure + traces on GitHub Pages) |
 | CI/CD | Jenkins, GitHub Actions (incl. cross-browser matrix) | banking-automation, mtc-auto-framework, Branch-Teller-POS, MeridianHealth-test-automation |
 | Cloud Test Grids | Sauce Labs | QaBrainAutomation_SauceLab |
@@ -265,7 +266,7 @@ Applied LLM engineering projects built to bridge QA Automation Engineering with 
 | [Payroll-Management-Systems_Automation](https://github.com/REZAULKARIM2024/Payroll-Management-Systems_Automation_Java_MySql_Selenium-) | Java Swing • MySQL • Selenium • Maven | Desktop payroll management app — employee records, salary calculation, payslip generation, tested end-to-end |
 | [NY-Coffee-Co.-Point-of-Sale-System](https://github.com/REZAULKARIM2024/NY-Coffee-Co.-Point-of-Sale-System) | Java Swing • MySQL • JUnit 5 • REST API • Postman | Coffee-shop POS app (checkout, payroll, inventory, delivery) with a 30-test JUnit suite and a dependency-free REST API layer backed by a full Postman collection |
 | [branch-teller-pos](https://github.com/REZAULKARIM2024/branch-teller-pos) | Java Swing • MySQL • REST API • React/TypeScript • JUnit 5 • Cucumber • RestAssured • Selenium • AssertJ-Swing • Docker • GitHub Actions | Full-stack core banking simulation — same service layer exposed via Swing desktop, REST API, and a React web console — with a 156-test suite across three automation layers (JUnit5/Cucumber/RestAssured in CI, plus opt-in Selenium and AssertJ-Swing UI automation) and Allure reports auto-published to GitHub Pages |
-| [MeridianHealth-test-automation](https://github.com/REZAULKARIM2024/MeridianHealth-test-automation) | React • Node.js/Express • MySQL • Playwright • TypeScript • Allure • GitHub Actions | Full-stack telehealth demo app (booking, pharmacy, clinical trials) built alongside its own 76-test Playwright suite — UI, direct API/security, and app-lifecycle testing, running green in CI on a Chromium / Firefox / WebKit matrix with a combined Allure report and Playwright traces published to GitHub Pages; a real server-crash bug, a CI-only Playwright/DOM race condition, and a browser-navigation UX gap were all found, root-caused, and fixed or documented along the way |
+| [MeridianHealth-test-automation](https://github.com/REZAULKARIM2024/MeridianHealth-test-automation) | React • Node.js/Express • MySQL • Playwright • TypeScript • Allure • GitHub Actions | Full-stack telehealth demo app (booking, pharmacy, clinical trials) built alongside its own 76-test Playwright suite — UI, direct API/security, and app-lifecycle testing, running green in CI on a Chromium / Firefox / WebKit matrix (228 test runs) with a [live combined Allure report](https://rezaulkarim2024.github.io/MeridianHealth-test-automation/) and Playwright traces on GitHub Pages, plus a nightly k6 performance smoke that fails the build when an SLO (p95/p99 latency, error rate) is breached; a real server-crash bug, a CI-only Playwright/DOM race condition, and a browser-navigation UX gap were all found, root-caused, and fixed or documented along the way |
 
 ### 🔌 API Automation
 
