@@ -16,21 +16,21 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## ðŸ“ About Me
+## 📝 About Me
 
-> QA Automation Engineer / SDET with **3+ years** of experience designing and building Java-based test automation frameworks for financial and enterprise applications. Currently automating a **financial services platform** at Transfotech Global Corp. Core strength is layered framework design â€” UI (Selenium + Page Object Model), BDD (Cucumber/Gherkin), API (RestAssured), mobile (Appium), accessibility (axe-core), and performance testing â€” wired into TestNG/Maven with Allure, Cucumber HTML, and Jenkins-driven reporting. Comfortable extending beyond the core Java stack into Playwright, Cypress, and Python when a project calls for it â€” and actively building applied GenAI/LLM tooling (RAG pipelines, AI-powered QA automation) to bridge traditional QA engineering with AI engineering.
+> QA Automation Engineer / SDET with **3+ years** of experience designing and building Java-based test automation frameworks for financial and enterprise applications. Currently automating a **financial services platform** at Transfotech Global Corp. Core strength is layered framework design — UI (Selenium + Page Object Model), BDD (Cucumber/Gherkin), API (RestAssured), mobile (Appium), accessibility (axe-core), and performance testing — wired into TestNG/Maven with Allure, Cucumber HTML, and Jenkins-driven reporting. Comfortable extending beyond the core Java stack into Playwright, Cypress, and Python when a project calls for it — and actively building applied GenAI/LLM tooling (RAG pipelines, AI-powered QA automation) to bridge traditional QA engineering with AI engineering.
 
-### ðŸŽ¯ Current Focus Areas
+### 🎯 Current Focus Areas
 
-- ðŸ¦ Automating a financial services platform (Java Â· Selenium Â· Cucumber Â· TestNG) at Transfotech Global Corp
-- ðŸ¤– Building applied GenAI tooling â€” a RAG chatbot (local embeddings + FAISS/pgvector + Claude API), an LLM-powered QA test case generator, and a safety-first LLM browser testing agent
-- ðŸ“± Building out Android mobile test automation with Appium 3 + UiAutomator2
-- ðŸ“Š Deepening test observability â€” unifying Cucumber, TestNG, and Allure reporting into a single dashboard per project
-- ðŸŒ Keeping cross-framework skills current across Playwright, Cypress, and Python/Behave
-- ðŸ—ï¸ Designed, built, and automated a full-stack banking platform (Java Swing + REST API + React) end-to-end as a portfolio project, pairing system design with a three-layer test strategy
-- ðŸ’žï¸ Open to collaborating on open-source QA automation and applied AI/GenAI projects
+- 🏦 Automating a financial services platform (Java · Selenium · Cucumber · TestNG) at Transfotech Global Corp
+- 🤖 Building applied GenAI tooling — a RAG chatbot (local embeddings + FAISS/pgvector + Claude API), an LLM-powered QA test case generator, and a safety-first LLM browser testing agent
+- 📱 Building out Android mobile test automation with Appium 3 + UiAutomator2
+- 📊 Deepening test observability — unifying Cucumber, TestNG, and Allure reporting into a single dashboard per project
+- 🌐 Keeping cross-framework skills current across Playwright, Cypress, and Python/Behave
+- 🏗️ Designed, built, and automated a full-stack banking platform (Java Swing + REST API + React) end-to-end as a portfolio project, pairing system design with a three-layer test strategy
+- 💞️ Open to collaborating on open-source QA automation and applied AI/GenAI projects
 
-### ðŸ’¬ Ask Me About
+### 💬 Ask Me About
 
 <p align="center">
 <img src="https://img.shields.io/badge/Test%20Automation%20Strategy-FF6B6B?style=for-the-badge"/>
@@ -44,9 +44,9 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## ðŸ§° Tech Stack
+## 🧰 Tech Stack
 
-### ðŸŽ¯ Core Expertise
+### 🎯 Core Expertise
 
 <p align="center">
 <img src="https://img.shields.io/badge/Test%20Automation%20Framework%20Design-FF6B6B?style=for-the-badge"/>
@@ -93,7 +93,7 @@
 <img src="https://img.shields.io/badge/Prompt%20Engineering-6B4FBB?style=for-the-badge"/>
 </p>
 
-### ðŸ’» Programming Languages
+### 💻 Programming Languages
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -103,7 +103,7 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### ðŸ§ª UI Automation & Testing Frameworks
+### 🧪 UI Automation & Testing Frameworks
 
 <p align="center">
 <img src="https://img.shields.io/badge/Selenium%20WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
@@ -117,7 +117,7 @@
 <img src="https://img.shields.io/badge/AssertJ--Swing-2E7D32?style=for-the-badge"/>
 </p>
 
-### ðŸ”Œ API Testing & REST Automation
+### 🔌 API Testing & REST Automation
 
 <p align="center">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -126,7 +126,7 @@
 <img src="https://img.shields.io/badge/JSON%20Schema%20Validation-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
-### ðŸ› ï¸ Build Tools & CI/CD
+### 🛠️ Build Tools & CI/CD
 
 <p align="center">
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
@@ -135,7 +135,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### â˜ï¸ Cloud & Reporting Platforms
+### ☁️ Cloud & Reporting Platforms
 
 <p align="center">
 <img src="https://img.shields.io/badge/Sauce%20Labs-E2231A?style=for-the-badge"/>
@@ -145,7 +145,7 @@
 <img src="https://img.shields.io/badge/TestNG%20Reports-FF6C37?style=for-the-badge"/>
 </p>
 
-### ðŸ”§ Version Control & Tools
+### 🔧 Version Control & Tools
 
 <p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -154,7 +154,7 @@
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 </p>
 
-### ðŸ—„ï¸ Database Technologies
+### 🗄️ Database Technologies
 
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -162,7 +162,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-### ðŸ–¥ï¸ Operating Systems & Environments
+### 🖥️ Operating Systems & Environments
 
 <p align="center">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -170,7 +170,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
-### â™¿ Accessibility, Security & Performance Testing
+### ♿ Accessibility, Security & Performance Testing
 
 <p align="center">
 <img src="https://img.shields.io/badge/Accessibility%20(axe--core)-6B4FBB?style=for-the-badge"/>
@@ -179,7 +179,7 @@
 <img src="https://img.shields.io/badge/Security%20Testing-CC0000?style=for-the-badge"/>
 </p>
 
-### ðŸ§© Technical Skills Matrix
+### 🧩 Technical Skills Matrix
 
 | Competency Area | Tools & Technologies | Applied In |
 |---|---|---|
@@ -204,24 +204,24 @@
 | AI Agent Testing & Safety | Playwright, LLM browser agents, prompt-injection defences, red-team evaluation | browser-testing-agent, rag-chatbot |
 | Testing Practices | Manual, Functional, Regression, Smoke, Cross-Browser, Negative/Boundary, Security-Header | Across all frameworks |
 
-### ðŸ§­ Testing Methodologies & Practices
+### 🧭 Testing Methodologies & Practices
 
 | Practice | Details | Tools |
 |---|---|---|
 | Agile Scrum | Sprint planning, standups, retros, velocity tracking | Jira, Confluence |
 | BDD | Gherkin, Given/When/Then, living documentation | Cucumber, Behave |
 | SDLC/STLC | Full lifecycle from requirements to production | Jira, TestNG, Maven |
-| Page Object Model | Element abstraction, maintainable scripts â€” in both Selenium and Playwright | Selenium, Playwright |
+| Page Object Model | Element abstraction, maintainable scripts — in both Selenium and Playwright | Selenium, Playwright |
 | CI/CD Integration | Automated build/test, quality gates, deployment | Jenkins, GitHub Actions, Maven |
 | API Testing | Contract testing, data-driven scenarios, auth testing | Postman, Rest Assured |
 | Defect Management | Triage, severity assessment, root cause analysis | Jira |
 | Cloud-Based Testing | Cross-browser/device testing, real-time dashboards | Sauce Labs, AWS |
 
-### ðŸ—ï¸ How I Build Automation Frameworks
+### 🏗️ How I Build Automation Frameworks
 
 | Layer | Approach | Tools |
 |---|---|---|
-| 1. Requirements â†’ Test design | Turn user stories into positive, negative, boundary and security scenarios before writing any code | Jira, Zephyr, BDD (Gherkin) |
+| 1. Requirements → Test design | Turn user stories into positive, negative, boundary and security scenarios before writing any code | Jira, Zephyr, BDD (Gherkin) |
 | 2. Framework structure | Page Object Model, reusable utilities, config-driven environments, no hardcoded test data | Java, Selenium, Cypress, JavaScript |
 | 3. Test runner & data | Data-driven tests, parallel execution, tagged suites (smoke / regression) | TestNG, JUnit 5, Cucumber |
 | 4. API & database layer | API contract and auth checks, DB validation of what the UI reports | Postman, Rest Assured, SQL |
@@ -231,67 +231,67 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## ðŸ¤– GenAI / AI Engineering Projects
+## 🤖 GenAI / AI Engineering Projects
 
 Applied LLM engineering projects built to bridge QA Automation Engineering with AI Engineering.
 
 | Project | Stack | Description |
 |---|---|---|
-| [rag-chatbot](https://github.com/REZAULKARIM2024/rag-chatbot) Â· [ðŸ”´ Live demo](https://rezaul-rag-chatbot.streamlit.app/) | Python â€¢ sentence-transformers â€¢ FAISS â€¢ PostgreSQL/pgvector â€¢ LangGraph â€¢ Claude API â€¢ Streamlit | Retrieval-Augmented Generation chatbot that answers questions from personal documents. Local embeddings with a switchable vector store (FAISS or PostgreSQL/pgvector on Neon), Claude API for grounded generation, an agentic LangGraph mode that self-checks answers for groundedness and retries retrieval, multi-turn conversation memory, a Streamlit web UI with document upload and one-click re-indexing, plus a pytest suite, a retrieval evaluation harness (hit@k / MRR) and GitHub Actions CI, prompt-injection defences with a red-team eval gate (14 attacks, zero false positives on the corpus) and per-call token/cost tracking |
-| [qa-test-case-agent](https://github.com/REZAULKARIM2024/qa-test-case-agent) Â· [ðŸ”´ Live demo](https://rezaul-test-case-generator.streamlit.app/) | Python â€¢ Claude API â€¢ Streamlit â€¢ pytest â€¢ GitHub Actions | AI agent that generates structured QA test cases (positive, negative, boundary, security) from a user story/requirement, applying real test design techniques and exporting directly to Zephyr/Jira-importable CSV. Treats LLM output as untrusted: schema validation, CSV formula-injection protection, acceptance-criteria traceability with uncovered-criteria detection and a coverage report, 68 offline pytest tests and CI |
-| [browser-testing-agent](https://github.com/REZAULKARIM2024/browser-testing-agent) Â· [ðŸ”´ Live demo](https://browser-testing-agent-dfzkfylcwc8a2bmyqjirgk.streamlit.app/) | Python â€¢ Playwright â€¢ Claude API â€¢ Streamlit â€¢ pytest â€¢ GitHub Actions | LLM-driven browser test agent where the model proposes actions and deterministic code decides pass/fail: action and host allow-lists (blocks navigation, link clicks, pop-ups, redirects and cross-site form posts), credentials the model never sees, prompt-injection filtering of page text, and a rule that a pass needs a verified assertion. The live demo replays 15 preset scenarios (normal tests, model mistakes, attacks) in real headless Chromium. 67 offline pytest tests run in CI. Adversarial tests found and closed four real gaps, each fix mutation-checked by hand |
+| [rag-chatbot](https://github.com/REZAULKARIM2024/rag-chatbot) · [🔴 Live demo](https://rezaul-rag-chatbot.streamlit.app/) | Python • sentence-transformers • FAISS • PostgreSQL/pgvector • LangGraph • Claude API • Streamlit | Retrieval-Augmented Generation chatbot that answers questions from personal documents. Local embeddings with a switchable vector store (FAISS or PostgreSQL/pgvector on Neon), Claude API for grounded generation, an agentic LangGraph mode that self-checks answers for groundedness and retries retrieval, multi-turn conversation memory, a Streamlit web UI with document upload and one-click re-indexing, plus a pytest suite, a retrieval evaluation harness (hit@k / MRR) and GitHub Actions CI, prompt-injection defences with a red-team eval gate (14 attacks, zero false positives on the corpus) and per-call token/cost tracking |
+| [qa-test-case-agent](https://github.com/REZAULKARIM2024/qa-test-case-agent) · [🔴 Live demo](https://rezaul-test-case-generator.streamlit.app/) | Python • Claude API • Streamlit • pytest • GitHub Actions | AI agent that generates structured QA test cases (positive, negative, boundary, security) from a user story/requirement, applying real test design techniques and exporting directly to Zephyr/Jira-importable CSV. Treats LLM output as untrusted: schema validation, CSV formula-injection protection, acceptance-criteria traceability with uncovered-criteria detection and a coverage report, 68 offline pytest tests and CI |
+| [browser-testing-agent](https://github.com/REZAULKARIM2024/browser-testing-agent) · [🔴 Live demo](https://browser-testing-agent-dfzkfylcwc8a2bmyqjirgk.streamlit.app/) | Python • Playwright • Claude API • Streamlit • pytest • GitHub Actions | LLM-driven browser test agent where the model proposes actions and deterministic code decides pass/fail: action and host allow-lists (blocks navigation, link clicks, pop-ups, redirects and cross-site form posts), credentials the model never sees, prompt-injection filtering of page text, and a rule that a pass needs a verified assertion. The live demo replays 15 preset scenarios (normal tests, model mistakes, attacks) in real headless Chromium. 67 offline pytest tests run in CI. Adversarial tests found and closed four real gaps, each fix mutation-checked by hand |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## ðŸš€ Featured Automation Projects
+## 🚀 Featured Automation Projects
 
-### â˜• Enterprise BDD Frameworks (Java Â· Selenium Â· Cucumber Â· TestNG)
-
-| Project | Stack | Description |
-|---|---|---|
-| [ParaBank-BDD-Test-Automation-Framework](https://github.com/REZAULKARIM2024/ParaBank-BDD-Test-Automation-Framework) | Java â€¢ Selenium â€¢ Cucumber â€¢ TestNG â€¢ RestAssured â€¢ Allure | Multi-layer framework against a live public banking app â€” UI/BDD, REST API, accessibility & performance in one project; 69 UI scenarios, 100% pass |
-| [OrangeHRM-BDD-Test-Automation-Framework](https://github.com/REZAULKARIM2024/OrangeHRM-BDD-Test-Automation-Framework) | Java â€¢ Selenium â€¢ Cucumber â€¢ TestNG â€¢ RestAssured â€¢ Allure | Multi-layer framework against a live public HR app â€” UI/BDD, REST API, accessibility, security-header & performance testing in one project; 72 tests, 100% pass |
-| [NorthFace-Automationexercise_Automation-Framework](https://github.com/REZAULKARIM2024/NorthFace-Automationexercise_Automation-Framework) | Java â€¢ Selenium â€¢ Cucumber â€¢ TestNG â€¢ RestAssured â€¢ JUnit | Multi-layer framework spanning UI, E2E, API, unit, accessibility, and performance testing across two real-world sites |
-
-### ðŸ“± Mobile Automation (Appium)
+### ☕ Enterprise BDD Frameworks (Java · Selenium · Cucumber · TestNG)
 
 | Project | Stack | Description |
 |---|---|---|
-| [AndroidAppiumTest-Framework](https://github.com/REZAULKARIM2024/AndroidAppiumTest-Framework) | Java 17 â€¢ Appium 3 â€¢ UiAutomator2 â€¢ TestNG | Android UI automation with two full suites â€” 75 tests across 12 categories on the MyDemo App |
-| [AppiumMobileAutomation_Framework-ApiDemos](https://github.com/REZAULKARIM2024/AppiumMobileAutomation_Framework-ApiDemos) | Java â€¢ Appium â€¢ TestNG â€¢ POM | Mobile automation framework targeting Google's ApiDemos sample Android app |
+| [ParaBank-BDD-Test-Automation-Framework](https://github.com/REZAULKARIM2024/ParaBank-BDD-Test-Automation-Framework) | Java • Selenium • Cucumber • TestNG • RestAssured • Allure | Multi-layer framework against a live public banking app — UI/BDD, REST API, accessibility & performance in one project; 69 UI scenarios, 100% pass |
+| [OrangeHRM-BDD-Test-Automation-Framework](https://github.com/REZAULKARIM2024/OrangeHRM-BDD-Test-Automation-Framework) | Java • Selenium • Cucumber • TestNG • RestAssured • Allure | Multi-layer framework against a live public HR app — UI/BDD, REST API, accessibility, security-header & performance testing in one project; 72 tests, 100% pass |
+| [NorthFace-Automationexercise_Automation-Framework](https://github.com/REZAULKARIM2024/NorthFace-Automationexercise_Automation-Framework) | Java • Selenium • Cucumber • TestNG • RestAssured • JUnit | Multi-layer framework spanning UI, E2E, API, unit, accessibility, and performance testing across two real-world sites |
 
-### ðŸ–¥ï¸ Application + Test Automation
-
-| Project | Stack | Description |
-|---|---|---|
-| [Payroll-Management-Systems_Automation](https://github.com/REZAULKARIM2024/Payroll-Management-Systems_Automation_Java_MySql_Selenium-) | Java Swing â€¢ MySQL â€¢ Selenium â€¢ Maven | Desktop payroll management app â€” employee records, salary calculation, payslip generation, tested end-to-end |
-| [NY-Coffee-Co.-Point-of-Sale-System](https://github.com/REZAULKARIM2024/NY-Coffee-Co.-Point-of-Sale-System) | Java Swing â€¢ MySQL â€¢ JUnit 5 â€¢ REST API â€¢ Postman | Coffee-shop POS app (checkout, payroll, inventory, delivery) with a 30-test JUnit suite and a dependency-free REST API layer backed by a full Postman collection |
-| [branch-teller-pos](https://github.com/REZAULKARIM2024/branch-teller-pos) | Java Swing â€¢ MySQL â€¢ REST API â€¢ React/TypeScript â€¢ JUnit 5 â€¢ Cucumber â€¢ RestAssured â€¢ Selenium â€¢ AssertJ-Swing â€¢ Docker â€¢ GitHub Actions | Full-stack core banking simulation â€” same service layer exposed via Swing desktop, REST API, and a React web console â€” with a 156-test suite across three automation layers (JUnit5/Cucumber/RestAssured in CI, plus opt-in Selenium and AssertJ-Swing UI automation) and Allure reports auto-published to GitHub Pages |
-| [MeridianHealth-test-automation](https://github.com/REZAULKARIM2024/MeridianHealth-test-automation) | React â€¢ Node.js/Express â€¢ MySQL â€¢ Playwright â€¢ TypeScript â€¢ Allure â€¢ GitHub Actions | Full-stack telehealth demo app (booking, pharmacy, clinical trials) built alongside its own 123-test Playwright suite â€” UI, direct API/security, and app-lifecycle testing, running green in CI on a five-project matrix (Chromium, Firefox, WebKit, plus Pixel 7 and iPhone 14 emulation) with a [live combined Allure report](https://rezaulkarim2024.github.io/MeridianHealth-test-automation/) and Playwright traces on GitHub Pages, plus a nightly k6 performance smoke that fails the build when an SLO (p95/p99 latency, error rate) is breached, a one-command Docker Compose stack, and an OWASP ZAP baseline scan in CI (10 alerts down to 2 informational after adding a strict CSP and self-hosting fonts); a real server-crash bug, a CI-only Playwright/DOM race condition, and a browser-navigation UX gap were all found, root-caused, and fixed or documented along the way |
-
-### ðŸ”Œ API Automation
+### 📱 Mobile Automation (Appium)
 
 | Project | Stack | Description |
 |---|---|---|
-| [QaBrainsAPIAutomation](https://github.com/REZAULKARIM2024/QaBrainsAPIAutomation) | Java â€¢ Rest Assured | REST API test automation framework |
+| [AndroidAppiumTest-Framework](https://github.com/REZAULKARIM2024/AndroidAppiumTest-Framework) | Java 17 • Appium 3 • UiAutomator2 • TestNG | Android UI automation with two full suites — 75 tests across 12 categories on the MyDemo App |
+| [AppiumMobileAutomation_Framework-ApiDemos](https://github.com/REZAULKARIM2024/AppiumMobileAutomation_Framework-ApiDemos) | Java • Appium • TestNG • POM | Mobile automation framework targeting Google's ApiDemos sample Android app |
+
+### 🖥️ Application + Test Automation
+
+| Project | Stack | Description |
+|---|---|---|
+| [Payroll-Management-Systems_Automation](https://github.com/REZAULKARIM2024/Payroll-Management-Systems_Automation_Java_MySql_Selenium-) | Java Swing • MySQL • Selenium • Maven | Desktop payroll management app — employee records, salary calculation, payslip generation, tested end-to-end |
+| [NY-Coffee-Co.-Point-of-Sale-System](https://github.com/REZAULKARIM2024/NY-Coffee-Co.-Point-of-Sale-System) | Java Swing • MySQL • JUnit 5 • REST API • Postman | Coffee-shop POS app (checkout, payroll, inventory, delivery) with a 30-test JUnit suite and a dependency-free REST API layer backed by a full Postman collection |
+| [branch-teller-pos](https://github.com/REZAULKARIM2024/branch-teller-pos) | Java Swing • MySQL • REST API • React/TypeScript • JUnit 5 • Cucumber • RestAssured • Selenium • AssertJ-Swing • Docker • GitHub Actions | Full-stack core banking simulation — same service layer exposed via Swing desktop, REST API, and a React web console — with a 156-test suite across three automation layers (JUnit5/Cucumber/RestAssured in CI, plus opt-in Selenium and AssertJ-Swing UI automation) and Allure reports auto-published to GitHub Pages |
+| [MeridianHealth-test-automation](https://github.com/REZAULKARIM2024/MeridianHealth-test-automation) | React • Node.js/Express • MySQL • Playwright • TypeScript • Allure • GitHub Actions | Full-stack telehealth demo app (booking, pharmacy, clinical trials) built alongside its own 123-test Playwright suite — UI, direct API/security, and app-lifecycle testing, running green in CI on a five-project matrix (Chromium, Firefox, WebKit, plus Pixel 7 and iPhone 14 emulation) with a [live combined Allure report](https://rezaulkarim2024.github.io/MeridianHealth-test-automation/) and Playwright traces on GitHub Pages, plus a nightly k6 performance smoke that fails the build when an SLO (p95/p99 latency, error rate) is breached, a one-command Docker Compose stack, and an OWASP ZAP baseline scan in CI (10 alerts down to 2 informational after adding a strict CSP and self-hosting fonts); a real server-crash bug, a CI-only Playwright/DOM race condition, and a browser-navigation UX gap were all found, root-caused, and fixed or documented along the way |
+
+### 🔌 API Automation
+
+| Project | Stack | Description |
+|---|---|---|
+| [QaBrainsAPIAutomation](https://github.com/REZAULKARIM2024/QaBrainsAPIAutomation) | Java • Rest Assured | REST API test automation framework |
 | [QaBrainsAPIAutomation_Postman](https://github.com/REZAULKARIM2024/QaBrainsAPIAutomation_Postman) | Postman | API automation using Postman collections |
 
-### ðŸŒ Cross-Framework (Cypress / Playwright / Python / TypeScript)
+### 🌐 Cross-Framework (Cypress / Playwright / Python / TypeScript)
 
 | Project | Stack | Description |
 |---|---|---|
-| [Amazon-Cypress-JavaScript-Automation](https://github.com/REZAULKARIM2024/Amazon-Cypress-JavaScript-Automation) | Cypress 14 â€¢ JavaScript â€¢ Cucumber | Production-grade BDD E2E suite for Amazon.com â€” auth, shopping workflows |
-| [QaBrainsAutomation-Cypress-JavaScript](https://github.com/REZAULKARIM2024/QaBrainsAutomation-Cypress-JavaScript) | Cypress â€¢ JavaScript â€¢ Cucumber | E2E suite covering login, registration, cart, logout, forgot-password, smoke & regression |
-| [QaBrainsAutomation_Python](https://github.com/REZAULKARIM2024/QaBrainsAutomation_Python) | Python â€¢ Playwright â€¢ Behave | BDD framework with POM and Allure reporting |
-| [QaBrainAutomation_TypeScript_Playwright](https://github.com/REZAULKARIM2024/QaBrainAutomation_TypeScript_Playwright) | TypeScript â€¢ Playwright â€¢ Cucumber | BDD automation framework with POM |
+| [Amazon-Cypress-JavaScript-Automation](https://github.com/REZAULKARIM2024/Amazon-Cypress-JavaScript-Automation) | Cypress 14 • JavaScript • Cucumber | Production-grade BDD E2E suite for Amazon.com — auth, shopping workflows |
+| [QaBrainsAutomation-Cypress-JavaScript](https://github.com/REZAULKARIM2024/QaBrainsAutomation-Cypress-JavaScript) | Cypress • JavaScript • Cucumber | E2E suite covering login, registration, cart, logout, forgot-password, smoke & regression |
+| [QaBrainsAutomation_Python](https://github.com/REZAULKARIM2024/QaBrainsAutomation_Python) | Python • Playwright • Behave | BDD framework with POM and Allure reporting |
+| [QaBrainAutomation_TypeScript_Playwright](https://github.com/REZAULKARIM2024/QaBrainAutomation_TypeScript_Playwright) | TypeScript • Playwright • Cucumber | BDD automation framework with POM |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## ðŸ–¥ï¸ Platform & Environment Expertise
+## 🖥️ Platform & Environment Expertise
 
 | Category | Details |
 |---|---|
-| **Browsers** | Chrome, Firefox, Edge â€” cross-browser & compatibility testing; Chromium / Firefox / WebKit and mobile (Pixel 7 / iPhone 14 emulation) via Playwright CI matrix |
+| **Browsers** | Chrome, Firefox, Edge — cross-browser & compatibility testing; Chromium / Firefox / WebKit and mobile (Pixel 7 / iPhone 14 emulation) via Playwright CI matrix |
 | **Mobile** | Android (physical device & emulator) via Appium 3 + UiAutomator2 |
 | **Operating Systems** | Windows |
 | **Cloud Test Grids** | Sauce Labs |
@@ -302,17 +302,17 @@ Applied LLM engineering projects built to bridge QA Automation Engineering with 
 | **Issue Tracking** | Jira |
 | **Version Control** | Git, GitHub |
 
-## âš¡ Modern QA, AI, & DevSecOps Implementation
+## ⚡ Modern QA, AI, & DevSecOps Implementation
 
 This framework is built using modern engineering methodologies, leveraging my technical training from **Google & DeepLearning.AI**:
 
 *   **AI-Assisted Engineering:** Utilized Generative AI and advanced Prompt Engineering (GitHub Copilot, Claude) to accelerate test case scaffolding, streamline Page Object Model (POM) development, and optimize custom Java/JavaScript automation methods.
-*   **Applied GenAI Engineering:** Went beyond AI-assisted coding to build and ship three standalone GenAI applications â€” a RAG chatbot (local embeddings, vector search, Claude API, Streamlit UI), an LLM-powered QA test case generator, and an LLM browser testing agent with a safety harness â€” demonstrating hands-on retrieval-augmented generation, agent safety and LLM evaluation skills, not just AI-assisted tooling.
+*   **Applied GenAI Engineering:** Went beyond AI-assisted coding to build and ship three standalone GenAI applications — a RAG chatbot (local embeddings, vector search, Claude API, Streamlit UI), an LLM-powered QA test case generator, and an LLM browser testing agent with a safety harness — demonstrating hands-on retrieval-augmented generation, agent safety and LLM evaluation skills, not just AI-assisted tooling.
 *   **Security-Aware Testing (DevSecOps):** Integrated core security validation principles within the test workflows. The framework goes beyond functional testing to validate REST API JWT token authorization, verify input sanitization to guard against SQL Injection vulnerabilities, and ensure secure data handling during backend assertions.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## ðŸ“ˆ GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REZAULKARIM2024&theme=radical" width="100%"/>
@@ -322,16 +322,16 @@ This framework is built using modern engineering methodologies, leveraging my te
 <img src="https://github-profile-trophy.vercel.app/?username=REZAULKARIM2024&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
-### ðŸ Contribution Snake
+### 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/REZAULKARIM2024/REZAULKARIM2024/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> The snake animation needs a one-time GitHub Actions setup â€” it renders blank until that workflow runs once.
+> The snake animation needs a one-time GitHub Actions setup — it renders blank until that workflow runs once.
 
 <details>
-<summary>âš™ï¸ One-time setup for the snake animation</summary>
+<summary>⚙️ One-time setup for the snake animation</summary>
 
 Create `.github/workflows/snake.yml` in this repo:
 
@@ -362,7 +362,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Commit it, then run it once manually from the **Actions** tab (Run workflow) â€” after that it auto-refreshes daily.
+Commit it, then run it once manually from the **Actions** tab (Run workflow) — after that it auto-refreshes daily.
 
 </details>
 
