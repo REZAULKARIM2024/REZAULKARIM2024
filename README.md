@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:2088FF,100:8E2DE2&height=220&section=header&text=Rezaul%20Karim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Automation%20Engineer%20%2F%20SDET%20%7C%20Brooklyn%2C%20NY%20%F0%9F%97%BD&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F76B8A&center=true&vCenter=true&width=560&lines=Building+Java+test+automation+frameworks;Selenium+%7C+Cucumber+%7C+TestNG+%7C+REST+Assured;3%2B+years+testing+financial+%26+enterprise+apps;Now+building+RAG+%26+LLM-powered+QA+tools)](https://git.io/typing-svg)
@@ -373,3 +373,4 @@ Commit it, then run it once manually from the **Actions** tab (Run workflow) —
 *"Quality is never an accident; it is always the result of intelligent effort."*
 
 </div>
+](https://github.com/REZAULKARIM2024/REZAULKARIM2024/edit/main/README.md)
